@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "411e3de8_58891f20",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-02-09T04:34:45Z",
+      "side": 1,
+      "message": "All devices with a Fingerprint Sensor SHOULD support the Fingerprint Sensor if the stock OS supports it on Lollipop or less",
+      "revId": "895101575d19348b06c8b6be1e0a470fd285414b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "bae02458_38eaef98",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 197,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-02-09T04:34:45Z",
+      "side": 1,
+      "message": "Uhh, we probably don\u0027t want this",
+      "revId": "895101575d19348b06c8b6be1e0a470fd285414b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
