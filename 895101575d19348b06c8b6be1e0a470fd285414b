@@ -33,6 +33,24 @@
       "revId": "895101575d19348b06c8b6be1e0a470fd285414b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "d575053c_f8cacd79",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 197,
+      "author": {
+        "id": 5008
+      },
+      "writtenOn": "2018-02-09T04:42:16Z",
+      "side": 1,
+      "message": "Devices will not boot once a user modifies system otherwise. Signing system is unsupported for the builds we ship.",
+      "parentUuid": "bae02458_38eaef98",
+      "revId": "895101575d19348b06c8b6be1e0a470fd285414b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
