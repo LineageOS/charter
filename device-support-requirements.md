@@ -53,8 +53,8 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * [Licensing](#licensing)
 * [Wiki](#wiki)
 * [Stability](#stability)
-* [Battery](#battery)
-* [CPU Profiling](#cpu-profiling)
+* [Battery](#stability)
+* [CPU Profiling](#stability)
 
 # Attaining exceptions
 
