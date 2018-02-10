@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e83f9c7c_6179c416",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-10T20:32:47Z",
+      "side": 1,
+      "message": "higher Android version",
+      "range": {
+        "startLine": 137,
+        "startChar": 124,
+        "endLine": 137,
+        "endChar": 130
+      },
+      "revId": "14d20dcdb947487d82f3a63d4c492c113c6308f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "49d6a10f_66397ea1",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-10T20:32:47Z",
+      "side": 1,
+      "message": "if the stock OS supports it for all other Android releases",
+      "revId": "14d20dcdb947487d82f3a63d4c492c113c6308f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
