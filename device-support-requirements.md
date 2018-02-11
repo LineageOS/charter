@@ -180,6 +180,7 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 ## Lineage.Dependencies
 
 * Device trees MUST support a lineage.dependencies file for `breakfast` command & roomservice to be functional.
+* This file MUST NOT include any dependencies outside of the "LineageOS" organization.
 
 ## Build Type
 
