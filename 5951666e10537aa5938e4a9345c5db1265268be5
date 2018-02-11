@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3c3e0b14_0c000cd9",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 309,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-02-11T13:29:17Z",
+      "side": 1,
+      "message": "i don\u0027t think we should say this.",
+      "range": {
+        "startLine": 309,
+        "startChar": 176,
+        "endLine": 309,
+        "endChar": 230
+      },
+      "revId": "5951666e10537aa5938e4a9345c5db1265268be5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b6006db1_2ecc8354",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 309,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-02-11T13:29:17Z",
+      "side": 1,
+      "message": "proprietary",
+      "range": {
+        "startLine": 309,
+        "startChar": 78,
+        "endLine": 309,
+        "endChar": 88
+      },
+      "revId": "5951666e10537aa5938e4a9345c5db1265268be5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
