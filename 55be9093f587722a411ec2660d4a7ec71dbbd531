@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "718c204d_04a10a62",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 311,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-02-12T05:23:43Z",
+      "side": 1,
+      "message": "can we use codenames?",
+      "revId": "55be9093f587722a411ec2660d4a7ec71dbbd531",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
