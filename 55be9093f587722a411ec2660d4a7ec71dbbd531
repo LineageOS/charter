@@ -16,6 +16,24 @@
       "revId": "55be9093f587722a411ec2660d4a7ec71dbbd531",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c95fbeaf_978d174b",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 311,
+      "author": {
+        "id": 5008
+      },
+      "writtenOn": "2018-02-12T07:05:36Z",
+      "side": 1,
+      "message": "...+1, I have no idea what an SM-N900R4/T/V/W8 is (looks like hlte?). This should probalby be something like \"Galaxy Note 3 (hle)\" IMO",
+      "parentUuid": "718c204d_04a10a62",
+      "revId": "55be9093f587722a411ec2660d4a7ec71dbbd531",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
