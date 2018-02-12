@@ -34,6 +34,24 @@
       "revId": "55be9093f587722a411ec2660d4a7ec71dbbd531",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bb7727f7_444d309b",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 311,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-02-12T11:35:04Z",
+      "side": 1,
+      "message": "hltetmo and friends. I can do that, I just wanted to make it fit in the existing column size. would \"Samsung Galaxy Note 3 PN547 variants (hltetmo)\" suffice?",
+      "parentUuid": "c95fbeaf_978d174b",
+      "revId": "55be9093f587722a411ec2660d4a7ec71dbbd531",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
