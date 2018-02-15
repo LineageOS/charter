@@ -33,7 +33,6 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * [Lineage.Dependencies]()
 * [Build Type](#build-type)
 * [SELinux Enforcing](#selinux-enforcing)
-* [Encryption](#encryption)
 * [Verity](#verity)
 * [Updater](#updater)
 * [FRP](#frp)
@@ -86,6 +85,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 ## Encryption
 
 * All devices that supported hardware-backed encryption on their stock OS MUST support hardware-backed encryption.
+* All devices that support hardware-backed encryption and shipped stock as forceencrypt MUST default to forceencrypt enabled.
 * All devices that shipped stock as forceencrypt SHOULD default to forceencrypt enabled.
 * All devices MUST support software encryption.
 
@@ -189,10 +189,6 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 ## SELinux Enforcing
 
 * All devices MUST be configured for SELinux Enforcing.
-
-## Encryption
-
-* All devices MUST support software encryption.
 
 ## Verity
 
