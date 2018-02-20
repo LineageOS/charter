@@ -241,6 +241,8 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 ## Additional Features
 
 * All devices SHOULD support in-kernel (MDSS, MDNIE or similar) LiveDisplay colour adjustment.
+* LineageOS operates under the assumption that OEM device licensing for exFAT is attached to the device, not software. As such, all devices with exFAT support on stock MAY support kernel based exFAT. LineageOS will comply with all requests for removal of exFAT support from OEMs, Microsoft or their representatives upon contact to legal@lineageos.org
+* All devices without exFAT support on stock MUST NOT support exFAT.
 
 ## Software Deviations
 
