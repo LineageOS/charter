@@ -43,6 +43,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * [Extract Files](#extract-files)
 * [CVE](#cve)
 * [Firmware Assert](#firmware-assert)
+* [exFAT Support](#exfat-support)
 * [Additional Features](#additional-features)
 * [Software Deviations](#software-deviations)
 * [Quality of life](#quality-of-life)
@@ -237,6 +238,11 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 ## Firmware Assert
 
 * All devices MUST assert on known to be working firmware versions if some firmware versions are known to be non-working.
+
+## exFAT Support
+* All devices with exFAT support on stock MAY support exFAT with (and only with) a kernel based implementation.
+  * LineageOS operates under the assumption that OEM device licensing for exFAT is attached to the device, not software. LineageOS will comply with all requests for removal of exFAT support from OEMs, Microsoft or their representatives upon contact to legal@lineageos.org
+* All devices without exFAT support on stock MUST NOT support exFAT.
 
 ## Additional Features
 
