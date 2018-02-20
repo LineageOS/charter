@@ -241,6 +241,7 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 ## Additional Features
 
 * All devices SHOULD support in-kernel (MDSS, MDNIE or similar) LiveDisplay colour adjustment.
+* All devices with exFAT support on stock SHOULD support kernel based exFAT with Samsung's exFAT or sdFAT.
 
 ## Software Deviations
 
