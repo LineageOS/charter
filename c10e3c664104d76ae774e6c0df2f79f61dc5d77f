@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6c4c2cc4_0e95cfba",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 244,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-20T19:25:52Z",
+      "side": 1,
+      "message": "CYA (cover your/our ass). \n\n\"LineageOS operates under the assumption that OEM device licensing for exFAT is attached to the device, not software. As such, all devices with exFAT support on stock SHOULD support kernel based exFAT. LineageOS will comply with all requests for removal of exFAT support from OEMs, Microsoft or their representatives upon contact to legal@lineageos.org.\"",
+      "range": {
+        "startLine": 244,
+        "startChar": 2,
+        "endLine": 244,
+        "endChar": 76
+      },
+      "revId": "c10e3c664104d76ae774e6c0df2f79f61dc5d77f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
