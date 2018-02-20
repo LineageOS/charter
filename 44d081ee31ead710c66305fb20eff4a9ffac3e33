@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f6f1b4c_bf0be564",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 244,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-02-20T16:53:44Z",
+      "side": 1,
+      "message": "Trash this, if you wanna use another exFAT driver, have at it",
+      "range": {
+        "startLine": 244,
+        "startChar": 81,
+        "endLine": 244,
+        "endChar": 90
+      },
+      "revId": "44d081ee31ead710c66305fb20eff4a9ffac3e33",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
