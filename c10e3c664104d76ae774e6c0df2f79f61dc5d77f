@@ -46,6 +46,30 @@
       "revId": "c10e3c664104d76ae774e6c0df2f79f61dc5d77f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f914b18a_3e892d5a",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 244,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-02-20T19:33:19Z",
+      "side": 1,
+      "message": "Done to both.",
+      "parentUuid": "1a90d60c_8b697b61",
+      "range": {
+        "startLine": 244,
+        "startChar": 2,
+        "endLine": 244,
+        "endChar": 76
+      },
+      "revId": "c10e3c664104d76ae774e6c0df2f79f61dc5d77f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
