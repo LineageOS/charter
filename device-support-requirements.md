@@ -109,8 +109,8 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 * All devices with Bluetooth supported in their stock OS MUST support Bluetooth.
 * All devices with Bluetooth SHOULD support Bluetooth tethering.
-* All devices with aptX support in stock (non-beta releases) OS SHOULD support aptX.
-* All devices not shipping with aptX support in stock (non-beta releases) OS MUST NOT support aptX.
+* All devices with an aptX feature set on stock (non-beta releases) OS SHOULD support that aptX feature set.
+* All devices MUST NOT support an aptX feature set greater than that of the stock (non-beta releases) OS.
 
 ## Camera
 
