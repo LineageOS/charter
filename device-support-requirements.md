@@ -213,6 +213,9 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 
 * All devices MUST NOT alter SafetyNet validation responses.
 
+## Binder
+* All devices MUST use the 64-bit Binder API.
+
 ## Root (su)
 
 * All devices MUST NOT ship with su included.
