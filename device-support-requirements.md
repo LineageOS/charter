@@ -93,6 +93,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 ## Wifi
 
 * All devices with Wi-Fi supported in their stock OS MUST support Wi-Fi.
+* All devices with Wi-Fi MUST have same MAC address as on stock OS.
 * All devices with Wi-Fi hotspot capabilities MUST support Wi-Fi tethering.
 
 ## USB
@@ -108,6 +109,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 ## Bluetooth
 
 * All devices with Bluetooth supported in their stock OS MUST support Bluetooth.
+* All devices with Bluetooth MUST have same MAC address as on stock OS.
 * All devices with Bluetooth SHOULD support Bluetooth tethering.
 * All devices with support for aptX, aptX HD, or any future variant of aptX, in stock (non-beta releases) OS SHOULD support those variant of aptX.
 * All devices without support for aptX, aptX HD, or any future variant of aptX in stock (non-beta releases) OS MUST NOT support those variants of aptX.
