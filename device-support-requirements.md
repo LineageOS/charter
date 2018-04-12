@@ -33,7 +33,6 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * [Lineage.Dependencies]()
 * [Build Type](#build-type)
 * [SELinux Enforcing](#selinux-enforcing)
-* [Encryption](#encryption)
 * [Verity](#verity)
 * [Updater](#updater)
 * [FRP](#frp)
@@ -193,10 +192,6 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 ## SELinux Enforcing
 
 * All devices MUST be configured for SELinux Enforcing.
-
-## Encryption
-
-* All devices MUST support software encryption.
 
 ## Verity
 
