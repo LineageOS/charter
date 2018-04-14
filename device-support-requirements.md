@@ -130,6 +130,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * All devices that do not include a built-in Display MUST support Display output via the hardware’s supported outputs (ex. Android TV - HDMI).
 * All devices that support additional non-USB display interfaces SHOULD support those display output methods.
 * All devices that support a USB-out display in their stock OS SHOULD support this display output (ex. MHL/Miracast/OTG).
+* All devices that support HDR10 playback in their stock OS SHOULD support HDR10 playback.
 
 ## NFC
 
