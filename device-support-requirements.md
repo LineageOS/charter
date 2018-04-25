@@ -97,9 +97,13 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 ## USB
 
+* All devices with a USB port MUST support the same USB version that they do on stock.
 * All devices with a USB port MUST support file access via MTP.
 * All devices with USB tethering supported on their stock OS MUST support USB tethering.
-* All devices with a USB port & Data SHOULD support USB tethering.
+* All devices with a USB port & mobile data SHOULD support USB tethering.
+* All devices that support USB-OTG on their stock OS MUST support USB-OTG.
+* All USB-C devices MUST support all the power profiles supported on their stock OS.
+* All USB-C devices MUST support all the video profiles supported on theit stock OS.
 
 ## GPS
 
