@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "af7cc4b6_eba99da8",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-04-25T14:41:30Z",
+      "side": 1,
+      "message": "This is just a rewording fix, not a functional one.",
+      "parentUuid": "ce9aadf1_ed9102b1",
+      "range": {
+        "startLine": 103,
+        "startChar": 51,
+        "endLine": 103,
+        "endChar": 58
+      },
+      "revId": "fa417194f61c4b9705cab831f36b60a989a00731",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bacaca93_9fb37a27",
         "filename": "device-support-requirements.md",
         "patchSetId": 1
@@ -36,6 +60,30 @@
       "writtenOn": "2018-04-25T14:38:43Z",
       "side": 1,
       "message": "I feel like this falls under accessories/peripherals",
+      "range": {
+        "startLine": 104,
+        "startChar": 0,
+        "endLine": 106,
+        "endChar": 84
+      },
+      "revId": "fa417194f61c4b9705cab831f36b60a989a00731",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8b17e741_7ae66dc1",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-04-25T14:41:30Z",
+      "side": 1,
+      "message": "Not really, its USB subsystem support.",
+      "parentUuid": "bacaca93_9fb37a27",
       "range": {
         "startLine": 104,
         "startChar": 0,
