@@ -33,6 +33,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * [Lineage.Dependencies]()
 * [Build Type](#build-type)
 * [SELinux Enforcing](#selinux-enforcing)
+* [Vendor security patch level](#vendor-security-patch-level)
 * [Verity](#verity)
 * [Updater](#updater)
 * [FRP](#frp)
@@ -193,6 +194,15 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 ## SELinux Enforcing
 
 * All devices MUST be configured for SELinux Enforcing.
+
+## Vendor security patch level
+
+* [This applies ONLY to devices that have a stock rom that provides a security patch level]
+* All devices MUST report a valid vendor security patch level
+* This value MUST match the value of the security patch level of the stock builds blobs are pulled from
+* Devices that do not have a vendor image that reports a valid `ro.vendor.build.security_patch` value MUST set the value to the `ro.lineage.build.vendor_security_patch` property
+* The property MUST respect the following date format: yyyy-MM-dd (example: 2018-12-31)
+* Devices MUST not report an invalid and / or future vendor security level
 
 ## Verity
 
