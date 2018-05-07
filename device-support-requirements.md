@@ -297,9 +297,9 @@ __Software deviations are defined as exemptions granted for software requirement
 
 ## Stability
 
-* No "screen of death" issues.
-* Battery - no abnormal power drains.
-* CPU Profiling - no overclocks by default.
+* Issues like the "screen of death" MUST NOT affect the device.
+* The device MUST NOT have abnormal battery drain.
+* Overclocked CPU Profiles MUST NOT be applied by default.
 
 ## Recovery
 
