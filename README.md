@@ -5,5 +5,5 @@ This repository contains a set of governance documents for the LineageOS Project
 
 Current documents are listed below.
 
-[Device Support Requirements](device-support-requirements.md) - a set of requirements for a device to recieve LineageOS officially.
-
+[Device Support Requirements](device-support-requirements.md) - a set of requirements for a device to recieve LineageOS officially.  
+[Directors Working Agreement](directors-working-agreement.md) - guidelines for LineageOS Project Directors.
