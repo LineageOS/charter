@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1bb5be1f_196d18ed",
+        "filename": "code-of-conduct.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2018-05-08T08:21:09Z",
+      "side": 1,
+      "message": "I propose reordering as follows:\n* Trolling, insulting/derogatory comments, and personal or political attacks\n* Public or private harassment\n* Publishing others\u0027 private information, such as a physical or electronic address, without explicit permission\n* The use of sexualized language or imagery and unwelcome sexual attention or advances\n* Other conduct which could reasonably be considered inappropriate in a professional setting",
+      "revId": "bc9756b03811de771581eab32c24f46be8484288",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
