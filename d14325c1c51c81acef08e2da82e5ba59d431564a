@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "76b52183_f90a517a",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 322,
+      "author": {
+        "id": 6334
+      },
+      "writtenOn": "2018-05-12T13:56:52Z",
+      "side": 1,
+      "message": "AHHHH whitepsace",
+      "revId": "d14325c1c51c81acef08e2da82e5ba59d431564a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
