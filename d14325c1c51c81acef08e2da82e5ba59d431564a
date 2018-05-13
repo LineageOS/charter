@@ -2,6 +2,75 @@
   "comments": [
     {
       "key": {
+        "uuid": "fe702034_7f28bad1",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 300,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-05-13T03:41:04Z",
+      "side": 1,
+      "message": "\"..like the \"screen...\"?",
+      "range": {
+        "startLine": 300,
+        "startChar": 1,
+        "endLine": 300,
+        "endChar": 8
+      },
+      "revId": "d14325c1c51c81acef08e2da82e5ba59d431564a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7e913152_ad49b01e",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 301,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-05-13T03:41:04Z",
+      "side": 1,
+      "message": "\"The device MUST NOT have abnormal battery drain.\"?",
+      "range": {
+        "startLine": 301,
+        "startChar": 2,
+        "endLine": 301,
+        "endChar": 67
+      },
+      "revId": "d14325c1c51c81acef08e2da82e5ba59d431564a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8a440262_7072a71a",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 302,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-05-13T03:41:04Z",
+      "side": 1,
+      "message": "\"Overclocking CPU Profiles MUST NOT be applied by default.\"?",
+      "range": {
+        "startLine": 302,
+        "startChar": 1,
+        "endLine": 302,
+        "endChar": 62
+      },
+      "revId": "d14325c1c51c81acef08e2da82e5ba59d431564a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "76b52183_f90a517a",
         "filename": "device-support-requirements.md",
         "patchSetId": 1
