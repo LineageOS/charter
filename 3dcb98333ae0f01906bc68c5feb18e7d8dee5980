@@ -22,6 +22,30 @@
       "revId": "3dcb98333ae0f01906bc68c5feb18e7d8dee5980",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8a1e4ac6_4bada723",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 130,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-05-22T19:20:12Z",
+      "side": 1,
+      "message": "\"for all codecs supported by AOSP\" is probably more inline with what I meant",
+      "parentUuid": "bb6f0a37_5e7225ee",
+      "range": {
+        "startLine": 130,
+        "startChar": 112,
+        "endLine": 130,
+        "endChar": 126
+      },
+      "revId": "3dcb98333ae0f01906bc68c5feb18e7d8dee5980",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
