@@ -195,6 +195,30 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 ## Kernel
 
 * All devices MUST NOT ship a prebuilt kernel.
+* All devices MUST NOT implement software based touchscreen wake features such as double tap to wake, swipe to wake or gestures if there is no hardware-backed support for them in the touchscreen firmware.
+* All devices MUST NOT implement forced fast charge over USB methods that violate the USB specifications.
+* All devices MUST NOT implement any form of clock manipulation (Under-/overclocking, etc.) for any processor (CPU, GPU)."
+* All devices MUST NOT implement any form of hardware voltage manipulation (undervolting, custom voltage tables, etc.).
+* All devices MUST NOT implement any form of hardware register manipulation (sound control, etc.).
+* All devices MUST NOT implement any form of custom KSM driver (UKSM, etc.).
+* All devices MUST only ship governors that are specified in the following list.
+  * conservative
+  * interactive
+  * ondemand
+  * performance
+  * powersave
+  * sched
+  * schedutil
+  * userspace
+
+* All devices MUST only ship I/O schedulers that are specified in the following list.
+  * bfq
+  * cfq
+  * deadline
+  * noop
+  * row
+
+* All devices MUST only ship hotplugging drivers provided by the OEM or SOC vendor.
 
 ## SELinux Enforcing
 
@@ -305,7 +329,6 @@ __Software deviations are defined as exemptions granted for software requirement
 
 * Issues like the "screen of death" MUST NOT affect the device.
 * The device MUST NOT have abnormal battery drain.
-* Overclocked CPU Profiles MUST NOT be applied by default.
 
 ## Recovery
 
