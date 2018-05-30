@@ -195,6 +195,8 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 ## Kernel
 
 * All devices MUST NOT ship a prebuilt kernel.
+* All devices MUST NOT implement software based touchscreen wake features such as double tap to wake, swipe to wake or gestures if there is no hardware-backed support for them in the touchscreen firmware.
+* All devices MUST NOT implement forced fast charge over USB methods that violate the USB specifications.
 
 ## SELinux Enforcing
 
