@@ -32,6 +32,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Lineage.mk]()
   * [Lineage.Dependencies]()
   * [Build Type](#build-type)
+  * [Kernel](#kernel)
   * [SELinux Enforcing](#selinux-enforcing)
   * [Verity](#verity)
   * [Updater](#updater)
@@ -190,6 +191,10 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 ## Build Type
 
 * All devices MUST be configured as userdebug releases.
+
+## Kernel
+
+* All devices MUST NOT ship a prebuilt kernel.
 
 ## SELinux Enforcing
 
