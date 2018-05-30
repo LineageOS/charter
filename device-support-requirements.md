@@ -194,6 +194,10 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 
 * All devices MUST be configured for SELinux Enforcing.
 
+## Kernel
+
+* All devices MUST NOT ship a prebuilt kernel.
+
 ## Verity
 
 * All devices MUST disable verity on the system image for userdebug builds.
@@ -252,6 +256,10 @@ __LineageOS operates under the assumption that OEM device licensing for exFAT is
 
 * All devices SHOULD support in-kernel (MDSS, MDNIE or similar) LiveDisplay colour adjustment.
 
+## 
+
+* All devices MUST NOT ship a prebuilt kernel.
+
 ## Software Deviations
 
 __Software deviations are defined as exemptions granted for software requirements above that worked in stock, but do not work in LineageOS.__
@@ -290,7 +298,7 @@ __Software deviations are defined as exemptions granted for software requirement
 * Any contribution to an existing Apache 2.0 project MUST NOT be in Apache Compliance Category X.
 
 ## Wiki
-
+i 
 * All devices with a shipping build of LineageOS MUST have a wiki page with valid installation instructions.
 * All devices with a shipping build of LineageOS MUST document Hardware Deviations from stock capabilities.
 * All devices with a shipping build of LineageOS MUST document Software Deviations from other LineageOS releases of the same device type.
@@ -319,5 +327,6 @@ All currently granted exceptions should be listed in the following table. To req
 | 2018/02/08 | Samsung            | Hardware Encryption            | Samsung devices that cannot support hardware encryption due to Knox/Tee are exempted from the hardware crypto requirements. MUST still support software crypto.                                                                  
 | 2018/02/11 | Android TV devices | In-Remote Microphones          | Requires proprietary audio routing/methods that have no OSS counterpart, and rely on proprietary functions. MUST support Microphone input through the Android TV Remote app.|
 | 2018/02/12 | hlte[can/tmo/usc/vzw] | NFC                         | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
+| 2018/05/29 | Treble Devices     | Prebuilt kernel                | Treble devices use a pre-built kernel provided by the manufacturer. |
 ---
 __This document is licensed CC-BY-3.0, with portions adapted from Google’s CDD requirements.__
