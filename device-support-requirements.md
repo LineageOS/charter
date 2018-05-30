@@ -6,55 +6,56 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 ### Table of Contents
 
 * [Attaining exceptions](#attaining-exceptions)
-* [Process](#process)
+  * [Process](#process)
 * [Hardware Support](#hardware-support)
-* [Audio](#audio)
-* [RIL](#ril)
-* [Encryption](#encryption)
-* [Wifi](#wifi)
-* [USB](#usb)
-* [GPS](#gps)
-* [Bluetooth](#bluetooth)
-* [Camera](#camera)
-* [Video Recording](#video-recording)
-* [Display](#display)
-* [NFC](#nfc)
-* [Fingerprint Sensor](#fingerprint-sensor)
-* [IR](#ir)
-* [Accelerometer](#accelerometer)
-* [Gyroscope](#gyroscope)
-* [Proximity](#proximity)
-* [Light](#light)
-* [Other Sensors](#other-sensors)
-* [Accessories](#accessories)
-* [Hardware Deviations](#hardware-deviations)
+  * [Audio](#audio)
+  * [RIL](#ril)
+  * [Encryption](#encryption)
+  * [Wifi](#wifi)
+  * [USB](#usb)
+  * [GPS](#gps)
+  * [Bluetooth](#bluetooth)
+  * [Camera](#camera)
+  * [Video Recording](#video-recording)
+  * [Display](#display)
+  * [NFC](#nfc)
+  * [Fingerprint Sensor](#fingerprint-sensor)
+  * [IR](#ir)
+  * [Accelerometer](#accelerometer)
+  * [Gyroscope](#gyroscope)
+  * [Proximity](#proximity)
+  * [Light](#light)
+  * [Other Sensors](#other-sensors)
+  * [Accessories](#accessories)
+  * [Hardware Deviations](#hardware-deviations)
 * [Software support](#software-support)
-* [Lineage.mk]()
-* [Lineage.Dependencies]()
-* [Build Type](#build-type)
-* [SELinux Enforcing](#selinux-enforcing)
-* [Verity](#verity)
-* [Updater](#updater)
-* [FRP](#frp)
-* [SafetyNet](#safetynet)
-* [Root (su)]()
-* [Non-PIE Blobs](#non-pie-blobs)
-* [Extract Files](#extract-files)
-* [CVE](#cve)
-* [Firmware Assert](#firmware-assert)
-* [exFAT Support](#exfat-support)
-* [Additional Features](#additional-features)
-* [Software Deviations](#software-deviations)
+  * [Lineage.mk]()
+  * [Lineage.Dependencies]()
+  * [Build Type](#build-type)
+  * [SELinux Enforcing](#selinux-enforcing)
+  * [Verity](#verity)
+  * [Updater](#updater)
+  * [FRP](#frp)
+  * [SafetyNet](#safetynet)
+  * [Root (su)]()
+  * [Non-PIE Blobs](#non-pie-blobs)
+  * [Extract Files](#extract-files)
+  * [CVE](#cve)
+  * [Firmware Assert](#firmware-assert)
+  * [exFAT Support](#exfat-support)
+  * [Additional Features](#additional-features)
+  * [Software Deviations](#software-deviations)
 * [Quality of life](#quality-of-life)
-* [Commit Authorship](#commit-authorship)
-* [Copyrights](#copyrights)
-* [Workflow](#workflow)
-* [JIRA](#jira)
-* [Licensing](#licensing)
-* [Wiki](#wiki)
-* [Stability](#stability)
-* [Battery](#stability)
-* [CPU Profiling](#stability)
+  * [Commit Authorship](#commit-authorship)
+  * [Copyrights](#copyrights)
+  * [Workflow](#workflow)
+  * [JIRA](#jira)
+  * [Licensing](#licensing)
+  * [Wiki](#wiki)
+  * [Stability](#stability)
+  * [Battery](#stability)
+  * [CPU Profiling](#stability)
+* [Exceptions](#exceptions)
 
 # Attaining exceptions
 
@@ -271,12 +272,12 @@ __Software deviations are defined as exemptions granted for software requirement
 * All LineageOS copyrights MUST only be additive to the copyright header.
 * Do not remove copyrights from CyanogenMod, Cyanogen Inc or any other upstream.
 
-# Workflow:
+## Workflow
 
 * Force pushing branches SHOULD be avoided.
 * In the event of a force pushed branch, backup branches of the pre-forced HEAD MUST be made.
 
-# JIRA
+## JIRA
 
 * Device maintainer(s) MUST have a JIRA account for bug tracking and cross-team collaboration.
 * Device maintainer(s) MUST routinely triage, answer and close JIRA reports.
@@ -316,7 +317,7 @@ All currently granted exceptions should be listed in the following table. To req
 
 | Date       | Device/OEM         | Section Exempted               | Reason |
 |------------|--------------------|--------------------------------|--------|
-| 2018/02/08 | Samsung            | Hardware Encryption            | Samsung devices that cannot support hardware encryption due to Knox/Tee are exempted from the hardware crypto requirements. MUST still support software crypto.                                                                  
+| 2018/02/08 | Samsung            | Hardware Encryption            | Samsung devices that cannot support hardware encryption due to Knox/Tee are exempted from the hardware crypto requirements. MUST still support software crypto. |
 | 2018/02/11 | Android TV devices | In-Remote Microphones          | Requires proprietary audio routing/methods that have no OSS counterpart, and rely on proprietary functions. MUST support Microphone input through the Android TV Remote app.|
 | 2018/02/12 | hlte[can/tmo/usc/vzw] | NFC                         | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
 ---
