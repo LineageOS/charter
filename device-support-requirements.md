@@ -194,6 +194,10 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 
 * All devices MUST be configured for SELinux Enforcing.
 
+## Kernel
+
+* All devices MUST NOT ship a prebuilt kernel.
+
 ## Verity
 
 * All devices MUST disable verity on the system image for userdebug builds.
