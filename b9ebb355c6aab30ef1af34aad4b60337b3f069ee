@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7fbfebee_ec4912fa",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2018-05-31T01:50:37Z",
+      "side": 1,
+      "message": "I don\u0027t think this is supposed to be it\u0027s own category, is it?",
+      "range": {
+        "startLine": 51,
+        "startChar": 0,
+        "endLine": 51,
+        "endChar": 23
+      },
+      "revId": "b9ebb355c6aab30ef1af34aad4b60337b3f069ee",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "90821f49_3b61dbcc",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 275,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2018-05-31T01:50:37Z",
+      "side": 1,
+      "message": "Should be ##",
+      "range": {
+        "startLine": 275,
+        "startChar": 0,
+        "endLine": 275,
+        "endChar": 1
+      },
+      "revId": "b9ebb355c6aab30ef1af34aad4b60337b3f069ee",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "14df7645_79db349b",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 280,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2018-05-31T01:50:37Z",
+      "side": 1,
+      "message": "Same here, ##",
+      "range": {
+        "startLine": 280,
+        "startChar": 0,
+        "endLine": 280,
+        "endChar": 1
+      },
+      "revId": "b9ebb355c6aab30ef1af34aad4b60337b3f069ee",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
