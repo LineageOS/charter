@@ -44,6 +44,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [CVE](#cve)
   * [Firmware Assert](#firmware-assert)
   * [exFAT Support](#exfat-support)
+  * [Vendor security patch level](#vendor-security-patch-level)
   * [Additional Features](#additional-features)
   * [Software Deviations](#software-deviations)
 * [Quality of life](#quality-of-life)
@@ -253,6 +254,16 @@ __LineageOS operates under the assumption that OEM device licensing for exFAT is
 
 * All devices with exFAT support on stock MAY support exFAT with (and only with) a kernel based implementation.
 * All devices without exFAT support on stock MUST NOT support exFAT.
+
+## Vendor security patch level
+
+__This applies only to devices that have a stock rom that provides a security patch level__
+
+* All devices MUST report a valid vendor security patch level
+* This value MUST match the valie of the security patch level of the stock build blobs are pulled from
+* Devices that do not a have a vendor image that reports a valid `ro.vendor.build.security_patch` value MUST define the value to the `ro.lineage.build.vendor_security_patch` property
+* The property MUST respect the following  date format: `yyyy-MM-dd` (example: 2018-12-31)
+* Devices MUST NOT report an invalid or fake vendor security level
 
 ## Additional Features
 
