@@ -50,6 +50,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Software Deviations](#software-deviations)
   * [Vendor Images](#vendor-images)
   * [Firmware Dependencies](#firmware-dependencies)
+  * [Recovery](#recovery)
 * [Quality of life](#quality-of-life)
   * [Commit Authorship](#commit-authorship)
   * [Copyrights](#copyrights)
@@ -319,6 +320,10 @@ __Software deviations are defined as exemptions granted for software requirement
 ## Firmware Dependencies
 * All changes that require device firmware changes MUST be accompanied by an assert to ensure builds are not flashed on imcompatible firmware.
 * All firmware changes SHOULD be documented in a user accessible location to ensure users are able to upgrade their firmware.
+
+## Recovery
+
+* All devices using a recovery as their install method MUST support an official recovery (TWRP, Lineage, ...)
 
 # Quality of life
 ## Commit Authorship
