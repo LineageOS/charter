@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "26093187_7eae0b25",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 9392
+      },
+      "writtenOn": "2018-06-27T08:07:11Z",
+      "side": 1,
+      "message": "Are official builds really a must?",
+      "range": {
+        "startLine": 272,
+        "startChar": 71,
+        "endLine": 272,
+        "endChar": 79
+      },
+      "revId": "7c46303514afb6766d77320c2d324f1facc1d954",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "79998a57_097a3922",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 9392
+      },
+      "writtenOn": "2018-06-27T08:07:11Z",
+      "side": 1,
+      "message": "Doesn\u0027t this apply to all devices that we ship?",
+      "range": {
+        "startLine": 272,
+        "startChar": 14,
+        "endLine": 272,
+        "endChar": 30
+      },
+      "revId": "7c46303514afb6766d77320c2d324f1facc1d954",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0c96977e_db99549f",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 9392
+      },
+      "writtenOn": "2018-06-27T08:07:11Z",
+      "side": 1,
+      "message": "recovery system?",
+      "range": {
+        "startLine": 272,
+        "startChar": 80,
+        "endLine": 272,
+        "endChar": 88
+      },
+      "revId": "7c46303514afb6766d77320c2d324f1facc1d954",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
