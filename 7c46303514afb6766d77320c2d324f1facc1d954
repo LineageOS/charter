@@ -68,6 +68,78 @@
       "revId": "7c46303514afb6766d77320c2d324f1facc1d954",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "00ab65ba_7df5374a",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2018-06-27T08:24:22Z",
+      "side": 1,
+      "message": "we could change that to \"a working recovery build\" maybe?",
+      "parentUuid": "26093187_7eae0b25",
+      "range": {
+        "startLine": 272,
+        "startChar": 71,
+        "endLine": 272,
+        "endChar": 79
+      },
+      "revId": "7c46303514afb6766d77320c2d324f1facc1d954",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "96f0e612_5885ed60",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2018-06-27T08:24:22Z",
+      "side": 1,
+      "message": "A/B don\u0027t. And using a text which is not too specific there makes it strict BUT also future-proof",
+      "parentUuid": "79998a57_097a3922",
+      "range": {
+        "startLine": 272,
+        "startChar": 14,
+        "endLine": 272,
+        "endChar": 30
+      },
+      "revId": "7c46303514afb6766d77320c2d324f1facc1d954",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "120a707f_b9735589",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2018-06-27T08:24:22Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "0c96977e_db99549f",
+      "range": {
+        "startLine": 272,
+        "startChar": 80,
+        "endLine": 272,
+        "endChar": 88
+      },
+      "revId": "7c46303514afb6766d77320c2d324f1facc1d954",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
