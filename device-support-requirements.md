@@ -202,7 +202,9 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 
 ## Verity
 
-* All devices MUST disable verity on the system image for userdebug builds.
+* All device MUST:
+  * Disable verity on the system image for userdebug builds; or
+  * Disable AVB and build a disabled VBMeta image
 * All devices SHOULD support verity on the vendor image.
 
 ## Updater
