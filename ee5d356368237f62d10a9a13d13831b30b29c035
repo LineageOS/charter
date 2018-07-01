@@ -71,6 +71,30 @@
     },
     {
       "key": {
+        "uuid": "9977dca9_8af6ffb2",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 263,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2018-07-01T16:33:43Z",
+      "side": 1,
+      "message": "\"oldest\" may imply the first ever build or something like that, which is not what we want.",
+      "parentUuid": "09a6dfb1_d2ec978b",
+      "range": {
+        "startLine": 263,
+        "startChar": 68,
+        "endLine": 263,
+        "endChar": 75
+      },
+      "revId": "ee5d356368237f62d10a9a13d13831b30b29c035",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "294adf86_18b514fe",
         "filename": "device-support-requirements.md",
         "patchSetId": 4
