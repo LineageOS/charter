@@ -45,6 +45,52 @@
       "revId": "ee5d356368237f62d10a9a13d13831b30b29c035",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "09a6dfb1_d2ec978b",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 263,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-07-01T11:29:43Z",
+      "side": 1,
+      "message": "maybe \"oldest stock\"? or \"oldest ROM\" - given that we often use blobs from different sources.",
+      "range": {
+        "startLine": 263,
+        "startChar": 68,
+        "endLine": 263,
+        "endChar": 75
+      },
+      "revId": "ee5d356368237f62d10a9a13d13831b30b29c035",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "294adf86_18b514fe",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 264,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-07-01T11:29:43Z",
+      "side": 1,
+      "message": "supply the security patch level in the `ro.lineage.build.vendor_security_patch` property",
+      "range": {
+        "startLine": 264,
+        "startChar": 109,
+        "endLine": 264,
+        "endChar": 182
+      },
+      "revId": "ee5d356368237f62d10a9a13d13831b30b29c035",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
