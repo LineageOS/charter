@@ -116,6 +116,30 @@
       "revId": "b072df56b32fb4f2a0cf29c91206aa8d7d522e5f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d4ac5411_2691edde",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 273,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-07-09T08:05:12Z",
+      "side": 1,
+      "message": "No clue, I have a few ideas but need to see what our infrastructure can do first",
+      "parentUuid": "47e84826_3ab3bb1f",
+      "range": {
+        "startLine": 273,
+        "startChar": 86,
+        "endLine": 273,
+        "endChar": 119
+      },
+      "revId": "b072df56b32fb4f2a0cf29c91206aa8d7d522e5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
