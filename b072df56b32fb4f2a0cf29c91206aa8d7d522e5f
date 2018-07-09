@@ -93,6 +93,29 @@
       "revId": "b072df56b32fb4f2a0cf29c91206aa8d7d522e5f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "47e84826_3ab3bb1f",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 273,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2018-07-09T07:58:09Z",
+      "side": 1,
+      "message": "Where do you plan to host those?",
+      "range": {
+        "startLine": 273,
+        "startChar": 86,
+        "endLine": 273,
+        "endChar": 119
+      },
+      "revId": "b072df56b32fb4f2a0cf29c91206aa8d7d522e5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
