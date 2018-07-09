@@ -47,6 +47,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [exFAT Support](#exfat-support)
   * [Additional Features](#additional-features)
   * [Software Deviations](#software-deviations)
+  * [Vendor Images](#vendor-images)
 * [Quality of life](#quality-of-life)
   * [Commit Authorship](#commit-authorship)
   * [Copyrights](#copyrights)
@@ -302,6 +303,11 @@ __Software deviations are defined as exemptions granted for software requirement
 * All software deviations from other LineageOS devices of the same type MUST be approved by Directors (eg. if one wants to remove Music app, get approval).
 * All software deviations from other LineageOS devices of the same type MUST be reported on the Wiki page for the device, with a user understandable justification.
 * Device maintainers MUST ship Jelly or another LineageOS sourced web browser.
+
+## Vendor Images
+* All non-A/B devices relying on an OEM provided vendor partition must assert vendor image versions at flash-time.
+* All A/B devices with a vendor partition MUST build a vendor image.
+* All Treble enabled devices SHOULD verify basic hardware functionality with an AOSP GSI.
 
 # Quality of life
 ## Commit Authorship
