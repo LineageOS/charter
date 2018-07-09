@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "a37b7ecf_033326bb",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 271,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-07-09T07:10:12Z",
+      "side": 1,
+      "message": "Not necessarily build, but at least ship prebuilt ones. Making users go update vendor by itself is just a bad idea, since we ship the kernel as well.",
+      "parentUuid": "957abc0a_7a26a854",
+      "range": {
+        "startLine": 271,
+        "startChar": 28,
+        "endLine": 271,
+        "endChar": 32
+      },
+      "revId": "b072df56b32fb4f2a0cf29c91206aa8d7d522e5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "c31324ea_7290a598",
         "filename": "device-support-requirements.md",
         "patchSetId": 1
@@ -36,6 +60,30 @@
       "writtenOn": "2018-07-09T06:31:50Z",
       "side": 1,
       "message": "whitespace",
+      "range": {
+        "startLine": 273,
+        "startChar": 120,
+        "endLine": 273,
+        "endChar": 121
+      },
+      "revId": "b072df56b32fb4f2a0cf29c91206aa8d7d522e5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "aeaabaad_ca9879e4",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 273,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-07-09T07:10:12Z",
+      "side": 1,
+      "message": "Derp",
+      "parentUuid": "c31324ea_7290a598",
       "range": {
         "startLine": 273,
         "startChar": 120,
