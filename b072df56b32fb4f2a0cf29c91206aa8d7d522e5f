@@ -49,6 +49,47 @@
     },
     {
       "key": {
+        "uuid": "48ac24d2_3df8fc95",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 271,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2018-07-09T09:12:37Z",
+      "side": 1,
+      "message": "Whilst I like the idea of making lineage rom installation more shrink-wrapped, there are often also bootloader and radio upgrades that go along with monthly vendor update.  If the user has to do another monthly update anyway, is there a huge benefit in us bothering to integrate vendor prebuilts ?",
+      "parentUuid": "a37b7ecf_033326bb",
+      "range": {
+        "startLine": 271,
+        "startChar": 28,
+        "endLine": 271,
+        "endChar": 32
+      },
+      "revId": "b072df56b32fb4f2a0cf29c91206aa8d7d522e5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fc60ee83_4e3aa5e1",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2018-07-09T09:12:37Z",
+      "side": 1,
+      "message": "Should verify what specific functionality ?  Or just that it boots to the setup wizard ?",
+      "revId": "b072df56b32fb4f2a0cf29c91206aa8d7d522e5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "c31324ea_7290a598",
         "filename": "device-support-requirements.md",
         "patchSetId": 1
