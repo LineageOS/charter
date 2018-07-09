@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "957abc0a_7a26a854",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 271,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2018-07-09T06:31:50Z",
+      "side": 1,
+      "message": "Should this really be MUST? This implies that we would build vendor images for the Pixels, no?",
+      "range": {
+        "startLine": 271,
+        "startChar": 28,
+        "endLine": 271,
+        "endChar": 32
+      },
+      "revId": "b072df56b32fb4f2a0cf29c91206aa8d7d522e5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c31324ea_7290a598",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 273,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2018-07-09T06:31:50Z",
+      "side": 1,
+      "message": "whitespace",
+      "range": {
+        "startLine": 273,
+        "startChar": 120,
+        "endLine": 273,
+        "endChar": 121
+      },
+      "revId": "b072df56b32fb4f2a0cf29c91206aa8d7d522e5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
