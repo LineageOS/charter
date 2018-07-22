@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e17c6c2e_f1b8c4cb",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 205,
+      "author": {
+        "id": 16208
+      },
+      "writtenOn": "2018-07-22T12:18:49Z",
+      "side": 1,
+      "message": "add powersave",
+      "revId": "4c8584efc9cda0110454ef7683d22c7cce835695",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f10847d_15fec15c",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 213,
+      "author": {
+        "id": 16208
+      },
+      "writtenOn": "2018-07-22T12:18:49Z",
+      "side": 1,
+      "message": "add row",
+      "revId": "4c8584efc9cda0110454ef7683d22c7cce835695",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
