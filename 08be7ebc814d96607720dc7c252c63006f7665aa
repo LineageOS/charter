@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4767852b_1daaad44",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-07-22T12:57:10Z",
+      "side": 1,
+      "message": "add sched ( first AES scheduler )",
+      "revId": "08be7ebc814d96607720dc7c252c63006f7665aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
