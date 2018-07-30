@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "db67c650_c1685a8c",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 9
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 16208
+      },
+      "writtenOn": "2018-07-30T04:57:26Z",
+      "side": 1,
+      "message": "maybe underclocking too?",
+      "revId": "f5f832df41aaf9058fdb4ae8b821b9cacb28f7c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
