@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f0a61b3d_04f269b4",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2018-07-30T03:06:04Z",
+      "side": 1,
+      "message": "You\u0027ll probably want to clarify this does not include the QC core_ctl driver.",
+      "range": {
+        "startLine": 222,
+        "startChar": 28,
+        "endLine": 222,
+        "endChar": 34
+      },
+      "revId": "d915eee171957695573691360b9e01ef1cd3100b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
