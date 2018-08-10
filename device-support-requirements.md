@@ -38,6 +38,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Updater](#updater)
   * [FRP](#frp)
   * [SafetyNet](#safetynet)
+  * [Binder](#binder)
   * [Root (su)](#root-su)
   * [Non-PIE Blobs](#non-pie-blobs)
   * [Extract Files](#extract-files)
@@ -56,6 +57,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Stability](#stability)
   * [Battery](#stability)
   * [CPU Profiling](#stability)
+  * Recovery(#recovery)
 * [Exceptions](#exceptions)
 
 # Attaining exceptions
