@@ -282,11 +282,11 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 
 ## CVE
 
-* Devices MUST support CVE patches for “high profile” exploits and vulnerabilities (if the media is reporting on it, then we must have it patched).
-* [NOTE: This will become a MUST once CVE autopatcher is live & automated]
-* Devices SHOULD receive regular CVE patches to the device kernel and dependencies.
-* [To be in effect once CVE autopatcher is live & automated]
-* Device maintainers MUST review and/or accept patches provided by the CVE autopatcher tool.
+* Devices MUST support CVE and LVT patches for “high profile” exploits and vulnerabilities (if the media is reporting on it, then we must have it patched).
+* [NOTE: This will become a MUST once CVE/LVT autopatcher is live & automated]
+* Devices SHOULD receive regular CVE and LVT patches to the device kernel and dependencies.
+* [To be in effect once CVE/LVT autopatcher is live & automated]
+* Device maintainers MUST review and/or accept patches provided by the CVE/LVT autopatcher tool.
 
 ## Firmware Assert
 
