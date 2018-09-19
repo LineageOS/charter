@@ -140,6 +140,29 @@
       "revId": "7c46303514afb6766d77320c2d324f1facc1d954",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e53baf4a_33250b37",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 18052
+      },
+      "writtenOn": "2018-09-19T11:39:10Z",
+      "side": 1,
+      "message": "Would it be excessively pedantic to say anything about whether or not a recovery system would be considered to be \"working\" if it had trouble with mounting an encrypted data partition?",
+      "range": {
+        "startLine": 272,
+        "startChar": 71,
+        "endLine": 272,
+        "endChar": 79
+      },
+      "revId": "7c46303514afb6766d77320c2d324f1facc1d954",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
