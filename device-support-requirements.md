@@ -76,7 +76,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * Tablet devices capable of in-call audio/speaker audio MUST support in-call/speaker audio.
 * Devices SHOULD support any additional audio configuration inherent to their device (echo cancellation, extra mics, etc).
 * All devices MUST support any other audio output supported by their stock OS (ex. Headphone jack, USB-C, BT).
-* All devices with FM radio capabilities in their stock OS SHOULD support FM.
+* All devices with FM radio capabilities in their stock OS MUST support FM.
 
 ## RIL
 
