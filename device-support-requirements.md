@@ -29,8 +29,8 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Accessories](#accessories)
   * [Hardware Deviations](#hardware-deviations)
 * [Software support](#software-support)
-  * [Lineage.mk]()
-  * [Lineage.Dependencies]()
+  * [Lineage.mk](#lineagemk)
+  * [Lineage.Dependencies](#lineagedependencies)
   * [Build Type](#build-type)
   * [Kernel](#kernel)
   * [SELinux Enforcing](#selinux-enforcing)
@@ -38,7 +38,8 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Updater](#updater)
   * [FRP](#frp)
   * [SafetyNet](#safetynet)
-  * [Root (su)]()
+  * [Binder](#binder)
+  * [Root (su)](#root-su)
   * [Non-PIE Blobs](#non-pie-blobs)
   * [Extract Files](#extract-files)
   * [CVE](#cve)
@@ -56,6 +57,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Stability](#stability)
   * [Battery](#stability)
   * [CPU Profiling](#stability)
+  * [Recovery](#recovery)
 * [Exceptions](#exceptions)
 
 # Attaining exceptions
