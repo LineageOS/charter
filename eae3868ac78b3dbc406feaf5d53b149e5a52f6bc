@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "79d3f264_afd30deb",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 263,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2018-11-27T19:18:35Z",
+      "side": 1,
+      "message": "As long as we are picking nits, stock ROMs don\u0027t pull blobs. \"... stock ROM from which blobs are pulled\" or something like that.",
+      "revId": "eae3868ac78b3dbc406feaf5d53b149e5a52f6bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
