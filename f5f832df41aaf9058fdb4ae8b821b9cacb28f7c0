@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "50da0540_22fae556",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 9
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2018-12-12T23:48:30Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "db67c650_c1685a8c",
+      "revId": "f5f832df41aaf9058fdb4ae8b821b9cacb28f7c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "dfdc6b98_8793d08e",
         "filename": "device-support-requirements.md",
         "patchSetId": 9
@@ -30,6 +48,30 @@
       "writtenOn": "2018-07-30T13:11:48Z",
       "side": 1,
       "message": "\"All devices MUST NOT implement any form of clock manipulation (Under-/overclocking, etc.) for any processor (CPU, GPU).\" would include both",
+      "range": {
+        "startLine": 200,
+        "startChar": 0,
+        "endLine": 201,
+        "endChar": 62
+      },
+      "revId": "f5f832df41aaf9058fdb4ae8b821b9cacb28f7c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b5280096_7847872e",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 9
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2018-12-12T23:48:30Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dfdc6b98_8793d08e",
       "range": {
         "startLine": 200,
         "startChar": 0,
