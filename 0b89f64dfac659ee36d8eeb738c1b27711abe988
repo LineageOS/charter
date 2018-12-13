@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6f519553_796467f5",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2018-12-13T15:27:06Z",
+      "side": 1,
+      "message": "There\u0027s a single quote at the end of this entry. Please add a start quote or remove this single quote.",
+      "revId": "0b89f64dfac659ee36d8eeb738c1b27711abe988",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
