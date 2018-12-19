@@ -1,7 +1,7 @@
 Welcome to the LineageOS Device Support Requirements. This document enumerates the requirements that must be met in order for devices to be deemed ship ready for LineageOS releases, beginning with Android Oreo.
 To be considered ready, device maintainers MUST meet the requirements presented in this document, including any documents incorporated via reference.
 
-The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” is per the IETF standard defined in RFC2119.
+The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” is per the IETF standard defined in RFC2119 (https://tools.ietf.org/html/rfc2119).
 
 ### Table of Contents
 
@@ -50,7 +50,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Commit Authorship](#commit-authorship)
   * [Copyrights](#copyrights)
   * [Workflow](#workflow)
-  * [JIRA](#jira)
+  * [Jira](#jira)
   * [Licensing](#licensing)
   * [Wiki](#wiki)
   * [Stability](#stability)
@@ -282,11 +282,11 @@ __Software deviations are defined as exemptions granted for software requirement
 * Force pushing branches SHOULD be avoided.
 * In the event of a force pushed branch, backup branches of the pre-forced HEAD MUST be made.
 
-## JIRA
+## Jira
 
-* Device maintainer(s) MUST have a JIRA account for bug tracking and cross-team collaboration.
-* Device maintainer(s) MUST routinely triage, answer and close JIRA reports.
-* Device maintainer(s) SHOULD make their JIRA name match their maintainer name as displayed on the Wiki.
+* Device maintainer(s) MUST have a Jira account for bug tracking and cross-team collaboration.
+* Device maintainer(s) MUST routinely triage, answer and close Jira reports.
+* Device maintainer(s) SHOULD make their Jira name match their maintainer name as displayed on the Wiki.
 
 ## Licensing
 
@@ -312,7 +312,7 @@ __Software deviations are defined as exemptions granted for software requirement
 * Maintainers MUST document for users on the Wiki a valid Recovery image by which to install LineageOS zip files.
 * Devices that do not have traditional Recovery images MUST support & document another means of installation for LineageOS zip files.
 * Maintainers SHOULD verify that Teamwin Recovery Project (TWRP) official distributions work for LineageOS installation.
-* Failures in official TWRP recoveries should be raised with the TWRP team or remedied by the maintainer.
+* Failures in official TWRP recoveries SHOULD be raised with the TWRP team or remedied by the maintainer.
 * Maintainers SHOULD provide a custom recovery link in Wiki documentation if TWRP does not officially support their device.
 
 
@@ -322,8 +322,8 @@ All currently granted exceptions should be listed in the following table. To req
 
 | Date       | Device/OEM         | Section Exempted               | Reason |
 |------------|--------------------|--------------------------------|--------|
-| 2018/02/08 | Samsung            | Hardware Encryption            | Samsung devices that cannot support hardware encryption due to Knox/Tee are exempted from the hardware crypto requirements. MUST still support software crypto. |
-| 2018/02/11 | Android TV devices | In-Remote Microphones          | Requires proprietary audio routing/methods that have no OSS counterpart, and rely on proprietary functions. MUST support Microphone input through the Android TV Remote app.|
-| 2018/02/12 | hlte[can/tmo/usc/vzw] | NFC                         | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
+| 2018-02-08 | Samsung            | Hardware Encryption            | Samsung devices that cannot support hardware encryption due to Knox/Tee are exempted from the hardware crypto requirements. MUST still support software crypto. |
+| 2018-02-11 | Android TV devices | In-Remote Microphones          | Requires proprietary audio routing/methods that have no OSS counterpart, and rely on proprietary functions. MUST support Microphone input through the Android TV Remote app.|
+| 2018-02-12 | hlte[can/tmo/usc/vzw] | NFC                         | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
 ---
 __This document is licensed CC-BY-3.0, with portions adapted from Google’s CDD requirements.__
