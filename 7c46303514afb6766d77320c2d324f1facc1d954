@@ -163,6 +163,24 @@
       "revId": "7c46303514afb6766d77320c2d324f1facc1d954",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "82077f0a_ff02e0c4",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2018-12-28T23:25:00Z",
+      "side": 1,
+      "message": "IMO, userdata decryption is absolutely *not* a requirement for a working recovery.",
+      "parentUuid": "e53baf4a_33250b37",
+      "revId": "7c46303514afb6766d77320c2d324f1facc1d954",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
