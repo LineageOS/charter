@@ -17,7 +17,7 @@ As LineageOS Project Directors, we:
 2. For items of legal consequence, that is direct or indirect legal and/or financial exposure to the project, veto power is reserved for LineageOS LLC owners. 
 3. For items of technical nature and not covered by the above rules, prior to Directors vote, we allow input on the topic from the contributors with domain knowledge/expertise.
 4. Decisions made by Directors, if contributor facing, MUST be communicated by the following mechanism: 
-    * Slack #_announcements as “Announcement: [here]” so as to copy to JIRA ANNOUNCE project for contributor visibility. 
+    * Slack #_announcements as “Announcement: [here]” so as to copy to GITLAB ISSUES ANNOUNCEMENTS project for contributor visibility. 
 5. Decisions made by Directors, if user facing, SHOULD be communicated by the following mechanisms:
     * A blog post, wiki update, or other artifact for public consumption of the decision.
 6. Directors may step down on their own at any point they wish. 
