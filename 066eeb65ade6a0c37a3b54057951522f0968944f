@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "08978e15_82d17edd",
+        "filename": "directors-working-agreement.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2019-01-03T06:04:15Z",
+      "side": 1,
+      "message": "I would guess this is currently broken. Is this going to be or already is changed to auto create announce in gitlab issues?",
+      "range": {
+        "startLine": 20,
+        "startChar": 31,
+        "endLine": 20,
+        "endChar": 53
+      },
+      "revId": "066eeb65ade6a0c37a3b54057951522f0968944f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
