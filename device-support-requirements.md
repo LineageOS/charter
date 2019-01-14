@@ -132,6 +132,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * All devices with Camera supported in their stock OS MUST support Camera, in both front facing and rear camera configurations.
 * All devices with Dual (or more) Rear Cameras SHOULD support all rear cameras.
 * All devices with Dual (or more) Front Facing Cameras SHOULD support all front cameras.
+* All devices with Camera MUST support the same level of the Camera API as the stock OS (ex. 1.0, 3.2, 3.3, 3.4).
 * All Camera HAL versions accessible with the device's Camera HAL MUST comply with the Camera and Video Recording requirements.
 
 ## Video Recording
@@ -144,7 +145,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 ## Display
 
-* All devices with a built-in Display MUST support the Display at the same resolution and  density as the stock OS.
+* All devices with a built-in Display MUST support the Display at the same resolution and density as the stock OS.
 * All devices that do not include a built-in Display MUST support Display output via the hardware’s supported outputs (ex. Android TV - HDMI).
 * All devices that support additional non-USB display interfaces SHOULD support those display output methods.
 * All devices that support a USB-out display in their stock OS SHOULD support this display output (ex. MHL/Miracast/OTG).
