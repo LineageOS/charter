@@ -11,9 +11,9 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Audio](#audio)
   * [RIL](#ril)
   * [Encryption](#encryption)
-  * [Wi-Fi](#wi-fi)
+  * [WLAN](#wlan)
   * [USB](#usb)
-  * [GPS](#gps)
+  * [GNSS](#gnss)
   * [Bluetooth](#bluetooth)
   * [Camera](#camera)
   * [Video Recording](#video-recording)
@@ -91,11 +91,13 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * All devices that shipped stock as forceencrypt SHOULD default to forceencrypt enabled.
 * All devices MUST support software encryption.
 
-## Wi-Fi
+## WLAN
 
-* All devices with Wi-Fi supported in their stock OS MUST support Wi-Fi.
-* All devices with Wi-Fi MUST report same MAC address as on stock OS.
-* All devices with Wi-Fi hotspot capabilities MUST support Wi-Fi tethering.
+* All devices with WLAN supported in their stock OS MUST support WLAN.
+* All devices with WLAN MUST support the same band configuration as stock.
+* All devices with WLAN SHOULD support the same featureset as stock (eg. Wi-Fi Direct).
+* All devices with WLAN MUST report same MAC address as on stock OS.
+* All devices with WLAN hotspot capabilities MUST support Wi-Fi tethering.
 
 ## USB
 
@@ -103,15 +105,19 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * All devices with USB tethering supported on their stock OS MUST support USB tethering.
 * All devices with a USB port & Data SHOULD support USB tethering.
 
-## GPS
+## GNSS
 
-* All devices with GPS supported in their stock OS MUST support GPS.
+* All devices with GNSS supported in their stock OS MUST support GPS.
+* All devices with GNSS MUST be able to acquire 3D lock.
+* All devices with GNSS SHOULD support the same positioning protocols as the stock OS (eg. GPS, GLONASS).
 
 ## Bluetooth
 
 * All devices with Bluetooth supported in their stock OS MUST support Bluetooth.
 * All devices with Bluetooth MUST report same MAC address as on stock OS.
 * All devices with Bluetooth SHOULD support Bluetooth tethering.
+* All devices with Bluetooth MUST support the same Bluetooth profiles as the stock OS (eg. A2DP).
+* All devices with Bluetooth MUST support the same Bluetooth version as the stock OS.
 * All devices with support for Qualcomm® aptX™, aptX™ HD, or any future variant of aptX™, in stock (non-beta releases) OS SHOULD support those variant of aptX™.
 * All devices without support for Qualcomm® aptX™, aptX™ HD, or any future variant of aptX™ in stock (non-beta releases) OS MUST NOT support those variants of aptX™.
 
