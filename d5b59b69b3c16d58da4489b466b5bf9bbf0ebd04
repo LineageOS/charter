@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "80ff75ee_ae593bfd",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2019-01-14T14:14:24Z",
+      "side": 1,
+      "message": "I don\u0027t see how can you even change the supported BT version. That must be something intrinsic to the chip, I guess.",
+      "range": {
+        "startLine": 126,
+        "startChar": 0,
+        "endLine": 126,
+        "endChar": 87
+      },
+      "revId": "d5b59b69b3c16d58da4489b466b5bf9bbf0ebd04",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
