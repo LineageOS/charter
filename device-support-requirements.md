@@ -131,6 +131,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * All devices with Camera supported in their stock OS MUST support Camera, in both front facing and rear camera configurations.
 * All devices with Dual (or more) Rear Cameras SHOULD support all rear cameras.
 * All devices with Dual (or more) Front Facing Cameras SHOULD support all front cameras.
+* All devices with Camera MUST support the same level of the Camera API as the stock OS (ex. 1.0, 3.2, 3.3, 3.4).
 * All Camera HAL versions accessible with the device's Camera HAL MUST comply with the Camera and Video Recording requirements.
 
 ## Video Recording
