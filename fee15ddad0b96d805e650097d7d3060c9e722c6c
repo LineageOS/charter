@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0b801bb6_f3eff92f",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 292,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2019-01-14T08:05:22Z",
+      "side": 1,
+      "message": "or must provide firmware in A/B",
+      "revId": "fee15ddad0b96d805e650097d7d3060c9e722c6c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
