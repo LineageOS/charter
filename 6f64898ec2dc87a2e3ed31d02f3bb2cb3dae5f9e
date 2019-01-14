@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9c7ad54d_315e25d4",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2019-01-14T13:19:10Z",
+      "side": 1,
+      "message": "Mi 8996 uses OSS camera HAL and HAL1 support is disabled. Can we rephrase this?",
+      "revId": "6f64898ec2dc87a2e3ed31d02f3bb2cb3dae5f9e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
