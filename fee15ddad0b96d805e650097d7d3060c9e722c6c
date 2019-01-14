@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "f1e86a3f_38aebbd9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2019-01-14T08:26:30Z",
+      "side": 1,
+      "message": "Typo: should",
+      "revId": "fee15ddad0b96d805e650097d7d3060c9e722c6c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "0b801bb6_f3eff92f",
         "filename": "device-support-requirements.md",
         "patchSetId": 2
@@ -13,6 +30,23 @@
       "writtenOn": "2019-01-14T08:05:22Z",
       "side": 1,
       "message": "or must provide firmware in A/B",
+      "revId": "fee15ddad0b96d805e650097d7d3060c9e722c6c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "2c4bda12_c71401c9",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 293,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2019-01-14T08:26:30Z",
+      "side": 1,
+      "message": "Typo: incompatible",
       "revId": "fee15ddad0b96d805e650097d7d3060c9e722c6c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
