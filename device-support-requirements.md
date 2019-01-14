@@ -47,6 +47,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Additional Features](#additional-features)
   * [Software Deviations](#software-deviations)
   * [Vendor Images](#vendor-images)
+  * [Firmware Dependencies](#firmware-dependencies)
 * [Quality of life](#quality-of-life)
   * [Commit Authorship](#commit-authorship)
   * [Copyrights](#copyrights)
@@ -282,6 +283,10 @@ __Software deviations are defined as exemptions granted for software requirement
 * All treble enabled builds MUST ship with a vendor image.
 * Devices building a vendor image SHOULD verify basic hardware functionality with an AOSP GSI.
 * Devices using a prebuilt vendor image MUST define `BOARD_PREBUILT_VENDORIMAGE` with a path to a prebuilt vendor image.
+
+## Firmware Dependencies
+* All changes that require device firmware changes MUST be accompanied by an assert to ensure builds are not flashed on imcompatible firmware.
+* All firmware changes SHOULD be documented in a user accessible location to ensure users are able to upgrade their firmware.
 
 # Quality of life
 ## Commit Authorship
