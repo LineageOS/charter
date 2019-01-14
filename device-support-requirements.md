@@ -94,6 +94,8 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 ## Wi-Fi
 
 * All devices with Wi-Fi supported in their stock OS MUST support Wi-Fi.
+* All devices with Wi-Fi MUST support the same band configuration as stock.
+* All devices with Wi-Fi SHOULD support the same featureset as stock (ex. Wi-Fi Direct).
 * All devices with Wi-Fi MUST report same MAC address as on stock OS.
 * All devices with Wi-Fi hotspot capabilities MUST support Wi-Fi tethering.
 
@@ -111,12 +113,16 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 ## GPS
 
 * All devices with GPS supported in their stock OS MUST support GPS.
+* All devices with GPS MUST be able to acquire 3D lock.
+* All devices with GPS SHOULD support the same positioning protocols as the stock OS (ex. GPS, GLONASS).
 
 ## Bluetooth
 
 * All devices with Bluetooth supported in their stock OS MUST support Bluetooth.
 * All devices with Bluetooth MUST report same MAC address as on stock OS.
 * All devices with Bluetooth SHOULD support Bluetooth tethering.
+* All devices with Bluetooth MUST support the same Bluetooth profiles as the stock OS (ex. A2DP).
+* All devices with Bluetooth SHOULD support the same Bluetooth version as the stock OS.
 * All devices with support for Qualcomm® aptX™, aptX™ HD, or any future variant of aptX™, in stock (non-beta releases) OS SHOULD support those variant of aptX™.
 * All devices without support for Qualcomm® aptX™, aptX™ HD, or any future variant of aptX™ in stock (non-beta releases) OS MUST NOT support those variants of aptX™.
 
