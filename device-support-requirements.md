@@ -48,8 +48,6 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [exFAT Support](#exfat-support)
   * [Additional Features](#additional-features)
   * [Software Deviations](#software-deviations)
-  * [Vendor Images](#vendor-images)
-  * [Firmware Dependencies](#firmware-dependencies)
 * [Quality of life](#quality-of-life)
   * [Commit Authorship](#commit-authorship)
   * [Copyrights](#copyrights)
@@ -97,34 +95,24 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 ## Wifi
 
 * All devices with Wi-Fi supported in their stock OS MUST support Wi-Fi.
-* All devices with Wi-Fi MUST support the same band configuration as stock.
-* All devices with Wi-Fi SHOULD support the same featureset as stock (ex. Wi-Fi Direct).
 * All devices with Wi-Fi MUST report same MAC address as on stock OS.
 * All devices with Wi-Fi hotspot capabilities MUST support Wi-Fi tethering.
 
 ## USB
 
-* All devices with a USB port MUST support the same USB version that they do on stock.
 * All devices with a USB port MUST support file access via MTP.
 * All devices with USB tethering supported on their stock OS MUST support USB tethering.
-* All devices with a USB port & mobile data SHOULD support USB tethering.
-* All devices that support USB-OTG on their stock OS MUST support USB-OTG.
-* All USB-C devices SHOULD support all the power profiles supported on their stock OS.
-* All USB-C devices SHOULD support all the video profiles supported on their stock OS.
+* All devices with a USB port & Data SHOULD support USB tethering.
 
 ## GPS
 
 * All devices with GPS supported in their stock OS MUST support GPS.
-* All devices with GPS MUST be able to acquire 3D lock.
-* All devices with GPS SHOULD support the same positioning protocols as the stock OS (ex. GPS, GLONASS).
 
 ## Bluetooth
 
 * All devices with Bluetooth supported in their stock OS MUST support Bluetooth.
 * All devices with Bluetooth MUST report same MAC address as on stock OS.
 * All devices with Bluetooth SHOULD support Bluetooth tethering.
-* All devices with Bluetooth MUST support the same Bluetooth profiles as the stock OS (ex. A2DP).
-* All devices with Bluetooth SHOULD support the same Bluetooth version as the stock OS.
 * All devices with support for Qualcomm® aptX™, aptX™ HD, or any future variant of aptX™, in stock (non-beta releases) OS SHOULD support those variant of aptX™.
 * All devices without support for Qualcomm® aptX™, aptX™ HD, or any future variant of aptX™ in stock (non-beta releases) OS MUST NOT support those variants of aptX™.
 
@@ -133,7 +121,6 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * All devices with Camera supported in their stock OS MUST support Camera, in both front facing and rear camera configurations.
 * All devices with Dual (or more) Rear Cameras SHOULD support all rear cameras.
 * All devices with Dual (or more) Front Facing Cameras SHOULD support all front cameras.
-* All devices with Camera MUST support the same level of the Camera API as the stock OS (ex. 1.0, 3.2, 3.3, 3.4).
 * All Camera HAL versions accessible with the device's Camera HAL MUST comply with the Camera and Video Recording requirements.
 
 ## Video Recording
@@ -146,7 +133,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 ## Display
 
-* All devices with a built-in Display MUST support the Display at the same resolution and density as the stock OS.
+* All devices with a built-in Display MUST support the Display at the same resolution and  density as the stock OS.
 * All devices that do not include a built-in Display MUST support Display output via the hardware’s supported outputs (ex. Android TV - HDMI).
 * All devices that support additional non-USB display interfaces SHOULD support those display output methods.
 * All devices that support a USB-out display in their stock OS SHOULD support this display output (ex. MHL/Miracast/OTG).
@@ -307,16 +294,6 @@ __Software deviations are defined as exemptions granted for software requirement
 * All software deviations from other LineageOS devices of the same type MUST be approved by Directors (ex. if you want to remove Music app, get approval).
 * All software deviations from other LineageOS devices of the same type MUST be reported on the wiki page for the device, with a user understandable justification.
 * Device maintainers MUST ship Jelly or another LineageOS sourced web browser.
-
-## Vendor Images
-* All treble enabled builds SHOULD ship with a source-built or prebuilt vendor image.
-* All A/B treble device builds MUST ship with a source-built or prebuilt vendor image.
-* All non-A/B treble device builds not shipping a vendor image MUST assert vendor image versions at flash-time.
-* Devices building a vendor image SHOULD verify basic hardware functionality with an AOSP GSI.
-
-## Firmware Dependencies
-* All changes that require device firmware changes MUST be accompanied by an assert to ensure builds are not flashed on imcompatible firmware.
-* All firmware changes SHOULD be documented in a user accessible location to ensure users are able to upgrade their firmware.
 
 # Quality of life
 ## Commit Authorship
