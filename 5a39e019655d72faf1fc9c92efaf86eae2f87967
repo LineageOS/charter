@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a296e4a6_0d29a9e3",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2019-01-15T08:36:47Z",
+      "side": 1,
+      "message": "Imo the relevant thing is \"camera works\", not sure why the API level is relevant. This is not about \"you can\u0027t make HAL x work anyway if the device was made with HAL y\", but about an enforcement I just don\u0027t understand. If, in theory, someone makes another HAL work with his device than stock, why should he be prevented from doing so via this charter entry?",
+      "range": {
+        "startLine": 134,
+        "startChar": 0,
+        "endLine": 134,
+        "endChar": 113
+      },
+      "revId": "5a39e019655d72faf1fc9c92efaf86eae2f87967",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
