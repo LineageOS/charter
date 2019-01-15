@@ -84,7 +84,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * All devices with RIL supported in their stock OS MUST support RIL for phone calls & data.
 * All devices with RIL supported in their stock OS MUST support emergency calling with a SIM inserted (112/911).
 * All devices with RIL supported in their stock OS SHOULD support emergency calling without a SIM inserted (112/911).
-* Data only devices (defined as devices that have a ril but does not support telephony stack due to hardware/firmware restrictions) are EXEMPTED from phone & emergency dialing requirements.
+* Data-only devices (defined as devices that have a RIL but do not support telephony stack due to hardware/firmware restrictions) are EXEMPTED from phone & emergency dialing requirements.
 
 ## Encryption
 
@@ -133,7 +133,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 ## Display
 
-* All devices with a built-in Display MUST support the Display at the same resolution and  density as the stock OS.
+* All devices with a built-in Display MUST support the Display at the same resolution and density as the stock OS.
 * All devices that do not include a built-in Display MUST support Display output via the hardware’s supported outputs (ex. Android TV - HDMI).
 * All devices that support additional non-USB display interfaces SHOULD support those display output methods.
 * All devices that support a USB-out display in their stock OS SHOULD support this display output (ex. MHL/Miracast/OTG).
@@ -170,11 +170,11 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 ## Other Sensors
 
-* All other sensors supported by a device’s stock OS SHOULD be supported in LineageOS.
+* All other sensors supported by a device’s stock OS SHOULD be supported.
 
 ## Accessories
 
-* All devices with proprietary accessories SHOULD support those accessories in LineageOS (ex. O-Click, Essential 360 Camera).
+* All devices with proprietary accessories SHOULD support those accessories (ex. O-Click, Essential 360 Camera).
 
 ## Hardware Deviations
 
@@ -292,7 +292,7 @@ __LineageOS operates under the assumption that OEM device licensing for exFAT is
 __Software deviations are defined as exemptions granted for software requirements above that worked in stock, but do not work in LineageOS.__
 
 * All software deviations from other LineageOS devices of the same type MUST be approved by Directors (ex. if you want to remove Music app, get approval).
-* All software deviations from other LineageOS devices of the same type MUST be reported on the wiki page for the device, with a user understandable justification.
+* All software deviations from other LineageOS devices of the same type MUST be reported on the Wiki page for the device, with a user understandable justification.
 * Device maintainers MUST ship Jelly or another LineageOS sourced web browser.
 
 # Quality of life
