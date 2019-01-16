@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1657b4_90b4f971",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 189,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-16T23:25:13Z",
+      "side": 1,
+      "message": "now its lineage_$codename.mk \u0026 AndroidProducts.mk, so this doesn\u0027t make sense",
+      "range": {
+        "startLine": 189,
+        "startChar": 30,
+        "endLine": 189,
+        "endChar": 41
+      },
+      "revId": "ed98aa6060065e683771452543a07fcab00107f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
