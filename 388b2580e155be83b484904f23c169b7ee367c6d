@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0ec91764_720e08b0",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 18052
+      },
+      "writtenOn": "2019-01-16T14:15:04Z",
+      "side": 1,
+      "message": "GNSS is the accepted umbrella term for all the various satellite positioning systems, of which GPS and GLONASS are two examples.",
+      "range": {
+        "startLine": 117,
+        "startChar": 19,
+        "endLine": 117,
+        "endChar": 22
+      },
+      "revId": "388b2580e155be83b484904f23c169b7ee367c6d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
