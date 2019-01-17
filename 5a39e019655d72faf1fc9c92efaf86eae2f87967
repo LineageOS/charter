@@ -22,6 +22,30 @@
       "revId": "5a39e019655d72faf1fc9c92efaf86eae2f87967",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "bd9394a2_9ce4a102",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-17T06:52:39Z",
+      "side": 1,
+      "message": "exactly. If someone can port HAL3, I don\u0027t see why they shouldn\u0027t be able to use it.",
+      "parentUuid": "a296e4a6_0d29a9e3",
+      "range": {
+        "startLine": 134,
+        "startChar": 0,
+        "endLine": 134,
+        "endChar": 113
+      },
+      "revId": "5a39e019655d72faf1fc9c92efaf86eae2f87967",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
