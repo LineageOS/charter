@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6223021e_40d143b6",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 312,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-17T06:50:35Z",
+      "side": 1,
+      "message": "does this really need to be defined? -- All A/B devices should ship a prebuilt or source built vendor image IMO (see: Moto devices without treble but are A/B).",
+      "range": {
+        "startLine": 312,
+        "startChar": 10,
+        "endLine": 312,
+        "endChar": 17
+      },
+      "revId": "18be17213d6fe1beffd8a94ff1ecd812d44e1442",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "1732adb6_cae3de37",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 313,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-17T06:50:35Z",
+      "side": 1,
+      "message": "again, is defining treble necessary?\n\nAngler (non-AB - non-treble) should be forced to assert, build from source, or ship prebuilt (and I\u0027m actually for dropping the first option, but that\u0027s just me).",
+      "range": {
+        "startLine": 313,
+        "startChar": 14,
+        "endLine": 313,
+        "endChar": 20
+      },
+      "revId": "18be17213d6fe1beffd8a94ff1ecd812d44e1442",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "98ccae63_24be5870",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 314,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-17T06:50:35Z",
+      "side": 1,
+      "message": "building a vendor image, or building a treble-enabled vendor image? -- again, angler as an example, GSI shouldn\u0027t work there.",
+      "range": {
+        "startLine": 314,
+        "startChar": 2,
+        "endLine": 314,
+        "endChar": 33
+      },
+      "revId": "18be17213d6fe1beffd8a94ff1ecd812d44e1442",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
