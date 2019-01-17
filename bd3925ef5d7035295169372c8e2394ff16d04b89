@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0ac55828_bd13e789",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-17T06:55:31Z",
+      "side": 1,
+      "message": "Should we also note something about \"MUST use the common basic HAL if you have a micro-usb/non-featured USB-C device?\" The latter being listed for ex ether (which has not OTG, etc.)",
+      "range": {
+        "startLine": 103,
+        "startChar": 0,
+        "endLine": 103,
+        "endChar": 86
+      },
+      "revId": "bd3925ef5d7035295169372c8e2394ff16d04b89",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
