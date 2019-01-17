@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7979cd14_29b2e63f",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 250,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-17T07:19:59Z",
+      "side": 1,
+      "message": "noting it here, only devices which support verity should support verity on the vendor image.",
+      "range": {
+        "startLine": 250,
+        "startChar": 2,
+        "endLine": 250,
+        "endChar": 56
+      },
+      "revId": "d4c4fb752144df43516efd1ceb659e75b4556d29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
