@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "780ba7be_efb081a6",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 247,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-17T07:20:26Z",
+      "side": 1,
+      "message": "that support verity on stock",
+      "range": {
+        "startLine": 247,
+        "startChar": 6,
+        "endLine": 247,
+        "endChar": 18
+      },
+      "revId": "d4c4fb752144df43516efd1ceb659e75b4556d29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "7979cd14_29b2e63f",
         "filename": "device-support-requirements.md",
         "patchSetId": 3
