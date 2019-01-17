@@ -22,6 +22,29 @@
       "revId": "388b2580e155be83b484904f23c169b7ee367c6d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "94d5f489_52b413d6",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-17T06:53:59Z",
+      "side": 1,
+      "message": "We should really cover that A2DP MUST work if it did on stock as well.",
+      "range": {
+        "startLine": 124,
+        "startChar": 0,
+        "endLine": 125,
+        "endChar": 87
+      },
+      "revId": "388b2580e155be83b484904f23c169b7ee367c6d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
