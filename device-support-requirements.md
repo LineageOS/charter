@@ -11,7 +11,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Audio](#audio)
   * [RIL](#ril)
   * [Encryption](#encryption)
-  * [Wifi](#wifi)
+  * [Wi-Fi](#wi-fi)
   * [USB](#usb)
   * [GPS](#gps)
   * [Bluetooth](#bluetooth)
@@ -30,11 +30,10 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Accessories](#accessories)
   * [Hardware Deviations](#hardware-deviations)
 * [Software support](#software-support)
-  * [Lineage.mk](#lineagemk)
-  * [Lineage.Dependencies](#lineagedependencies)
-  * [Build Type](#build-type)
+  * [Device tree structure](#device-tree-structure)
+  * [Build type](#build-type)
   * [Kernel](#kernel)
-  * [SELinux Enforcing](#selinux-enforcing)
+  * [SELinux status](#selinux-status)
   * [Verity](#verity)
   * [Updater](#updater)
   * [FRP](#frp)
@@ -42,7 +41,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Binder](#binder)
   * [Root (su)](#root-su)
   * [Non-PIE Blobs](#non-pie-blobs)
-  * [Extract Files](#extract-files)
+  * [Proprietary files extraction](#proprietary-files-extraction)
   * [CVE](#cve)
   * [Firmware Assert](#firmware-assert)
   * [exFAT Support](#exfat-support)
@@ -65,7 +64,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 * Device or software deviations from our core product (as described below) MUST be approved by no less than 3 Project Directors.
 * Device or software exceptions SHOULD be made via change request to this repository.
-* All device or software exceptions that are granted MUST be documented on the wiki for all affected devices.
+* All device or software exceptions that are granted MUST be documented on the Wiki for all affected devices.
 
 # Hardware Support
 
@@ -75,8 +74,8 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * Phones MUST support in-call audio.
 * Phones MUST support speaker audio.
 * Tablet devices capable of in-call audio/speaker audio MUST support in-call/speaker audio.
-* Devices SHOULD support any additional audio configuration inherent to their device (echo cancellation, extra mics, etc).
-* All devices MUST support any other audio output supported by their stock OS (ex. Headphone jack, USB-C, BT).
+* Devices SHOULD support any additional audio configuration inherent to their device (eg. echo cancellation, extra mics, etc).
+* All devices MUST support any other audio output supported by their stock OS (eg. headphone jack, USB-C, BT).
 * All devices with FM radio capabilities in their stock OS SHOULD support FM.
 
 ## RIL
@@ -84,7 +83,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * All devices with RIL supported in their stock OS MUST support RIL for phone calls & data.
 * All devices with RIL supported in their stock OS MUST support emergency calling with a SIM inserted (112/911).
 * All devices with RIL supported in their stock OS SHOULD support emergency calling without a SIM inserted (112/911).
-* Data only devices (defined as devices that have a ril but does not support telephony stack due to hardware/firmware restrictions) are EXEMPTED from phone & emergency dialing requirements.
+* Data-only devices (defined as devices that have a RIL but do not support telephony stack due to hardware/firmware restrictions) are EXEMPTED from phone & emergency dialing requirements.
 
 ## Encryption
 
@@ -92,7 +91,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * All devices that shipped stock as forceencrypt SHOULD default to forceencrypt enabled.
 * All devices MUST support software encryption.
 
-## Wifi
+## Wi-Fi
 
 * All devices with Wi-Fi supported in their stock OS MUST support Wi-Fi.
 * All devices with Wi-Fi MUST report same MAC address as on stock OS.
@@ -133,10 +132,10 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 ## Display
 
-* All devices with a built-in Display MUST support the Display at the same resolution and  density as the stock OS.
-* All devices that do not include a built-in Display MUST support Display output via the hardware’s supported outputs (ex. Android TV - HDMI).
+* All devices with a built-in Display MUST support the Display at the same resolution and density as the stock OS.
+* All devices that do not include a built-in Display MUST support Display output via the hardware’s supported outputs (eg. Android TV - HDMI).
 * All devices that support additional non-USB display interfaces SHOULD support those display output methods.
-* All devices that support a USB-out display in their stock OS SHOULD support this display output (ex. MHL/Miracast/OTG).
+* All devices that support a USB-out display in their stock OS SHOULD support this display output (eg. MHL/Miracast/OTG).
 * All devices that support HDR10 playback in their stock OS SHOULD support HDR10 playback.
 
 ## NFC
@@ -170,30 +169,27 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 ## Other Sensors
 
-* All other sensors supported by a device’s stock OS SHOULD be supported in LineageOS.
+* All other sensors supported by a device’s stock OS SHOULD be supported.
 
 ## Accessories
 
-* All devices with proprietary accessories SHOULD support those accessories in LineageOS (ex. O-Click, Essential 360 Camera).
+* All devices with proprietary accessories SHOULD support those accessories (eg. O-Click, Essential 360 Camera).
 
 ## Hardware Deviations
 
 __Hardware deviations are defined as exemptions granted for hardware requirements above that worked in stock, but do not work in LineageOS.__
 
-* All hardware deviations from stock MUST be reported on the wiki page for the device, with a user understandable justification.
+* All hardware deviations from stock MUST be reported on the Wiki page for the device, with a user understandable justification.
 
 # Software support
 
-## Lineage.mk
+## Device tree structure
 
-* Device trees MUST contain a lineage.mk file with device declaration of lineage_[devicename].
-
-## Lineage.Dependencies
-
+* Device trees MUST contain a Lineage-specific makefile with device declaration of lineage_[devicename].
 * Device trees MUST support a lineage.dependencies file for `breakfast` command & roomservice to be functional.
-* This file MUST NOT include any dependencies outside of the "LineageOS" organization.
+  * This file MUST NOT include any dependencies outside of the "LineageOS" organization.
 
-## Build Type
+## Build type
 
 * All devices MUST be configured as userdebug releases.
 
@@ -225,7 +221,7 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 
 * All devices MUST only ship hotplugging drivers provided by the OEM or SoC vendor.
 
-## SELinux Enforcing
+## SELinux status
 
 * All devices MUST be configured for SELinux Enforcing.
 
@@ -258,11 +254,11 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 
 * Devices MUST NOT use non-PIE binaries.
 
-## Extract Files
+## Proprietary files extraction
 
-* Devices MUST support a working extract files script in their device tree (or device tree dependencies) that reproduces an exact copy of the binaries required to build LineageOS from an existing LineageOS installation.
-* Devices SHOULD use the global extract files script in vendor/lineage.
-* If a device maintainer elects to not use the common extract script, the maintainer MUST ensure that the wiki page for their device has valid instructions for operating the custom extract script.
+* Devices MUST have a working proprietary files extraction script in their device tree (or device tree dependencies) that reproduces an exact copy of the binaries required to build LineageOS from an existing LineageOS installation.
+* Devices SHOULD use the global extraction script (located in vendor/lineage).
+* If a device maintainer elects to not use the common extraction script, the maintainer MUST ensure that the Wiki page for their device has valid instructions for operating the custom extraction script.
 
 ## CVE
 
@@ -291,8 +287,8 @@ __LineageOS operates under the assumption that OEM device licensing for exFAT is
 
 __Software deviations are defined as exemptions granted for software requirements above that worked in stock, but do not work in LineageOS.__
 
-* All software deviations from other LineageOS devices of the same type MUST be approved by Directors (ex. if you want to remove Music app, get approval).
-* All software deviations from other LineageOS devices of the same type MUST be reported on the wiki page for the device, with a user understandable justification.
+* All software deviations from other LineageOS devices of the same type MUST be approved by Directors (eg. if one wants to remove Music app, get approval).
+* All software deviations from other LineageOS devices of the same type MUST be reported on the Wiki page for the device, with a user understandable justification.
 * Device maintainers MUST ship Jelly or another LineageOS sourced web browser.
 
 # Quality of life
@@ -326,7 +322,7 @@ __Software deviations are defined as exemptions granted for software requirement
 
 ## Wiki
 
-* All devices with a shipping build of LineageOS MUST have a wiki page with valid installation instructions.
+* All devices with a shipping build of LineageOS MUST have a Wiki page with valid installation instructions.
 * All devices with a shipping build of LineageOS MUST document Hardware Deviations from stock capabilities.
 * All devices with a shipping build of LineageOS MUST document Software Deviations from other LineageOS releases of the same device type.
 
