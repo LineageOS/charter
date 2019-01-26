@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "34a7595e_921d0236",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 308,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2019-01-26T02:53:23Z",
+      "side": 1,
+      "message": "devices",
+      "range": {
+        "startLine": 308,
+        "startChar": 21,
+        "endLine": 308,
+        "endChar": 27
+      },
+      "revId": "ab1b8585dea412774c9ca07b15221d872fbfbc54",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "2e6b8dc6_7cc49dfd",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 308,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2019-01-26T02:53:23Z",
+      "side": 1,
+      "message": "compiled",
+      "range": {
+        "startLine": 308,
+        "startChar": 45,
+        "endLine": 308,
+        "endChar": 57
+      },
+      "revId": "ab1b8585dea412774c9ca07b15221d872fbfbc54",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ea9797ea_fed7fda7",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 309,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2019-01-26T02:53:23Z",
+      "side": 1,
+      "message": "treble enabled",
+      "range": {
+        "startLine": 309,
+        "startChar": 6,
+        "endLine": 309,
+        "endChar": 12
+      },
+      "revId": "ab1b8585dea412774c9ca07b15221d872fbfbc54",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "96128bc4_51a49e5c",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 310,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2019-01-26T02:53:23Z",
+      "side": 1,
+      "message": "All treble enabled devices?",
+      "range": {
+        "startLine": 310,
+        "startChar": 2,
+        "endLine": 310,
+        "endChar": 33
+      },
+      "revId": "ab1b8585dea412774c9ca07b15221d872fbfbc54",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
