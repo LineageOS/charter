@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "a39cab0a_db34db02",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 6
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2019-01-26T02:55:26Z",
+      "side": 1,
+      "message": "Also, please no swearing.",
+      "range": {
+        "startLine": 9,
+        "startChar": 11,
+        "endLine": 9,
+        "endChar": 18
+      },
+      "revId": "ab1b8585dea412774c9ca07b15221d872fbfbc54",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "34a7595e_921d0236",
         "filename": "device-support-requirements.md",
         "patchSetId": 6
