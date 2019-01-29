@@ -202,6 +202,7 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 * Device trees MUST contain a Lineage-specific makefile with device declaration of lineage_[devicename].
 * Device trees MUST support a lineage.dependencies file for `breakfast` command & roomservice to be functional.
   * This file MUST NOT include any dependencies outside of the "LineageOS" organization.
+* Device trees MUST NOT use `$(call inherit-product)` on generated vendor/ makefiles. Use `$(call inherit-product-if-exists)` instead
 
 ## Build type
 
