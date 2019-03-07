@@ -22,6 +22,30 @@
       "revId": "066eeb65ade6a0c37a3b54057951522f0968944f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "51bd9c2c_0b4f4610",
+        "filename": "directors-working-agreement.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 5008
+      },
+      "writtenOn": "2019-03-07T07:10:22Z",
+      "side": 1,
+      "message": "I made that because I hated jira - gitlab issues seems easier to use, maybe drop it?",
+      "parentUuid": "08978e15_82d17edd",
+      "range": {
+        "startLine": 20,
+        "startChar": 31,
+        "endLine": 20,
+        "endChar": 53
+      },
+      "revId": "066eeb65ade6a0c37a3b54057951522f0968944f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
