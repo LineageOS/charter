@@ -46,6 +46,30 @@
       "revId": "0988e687acad2de56135bba51bc3fe95d2350539",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "03dc22df_1aaefc6c",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 316,
+      "author": {
+        "id": 19975
+      },
+      "writtenOn": "2019-07-23T08:42:29Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "097644f3_db2503d6",
+      "range": {
+        "startLine": 316,
+        "startChar": 0,
+        "endLine": 316,
+        "endChar": 47
+      },
+      "revId": "0988e687acad2de56135bba51bc3fe95d2350539",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
