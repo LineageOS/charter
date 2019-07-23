@@ -51,7 +51,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Commit Authorship](#commit-authorship)
   * [Copyrights](#copyrights)
   * [Workflow](#workflow)
-  * [JIRA](#jira)
+  * [Gitlab](#gitlab)
   * [Licensing](#licensing)
   * [Wiki](#wiki)
   * [Stability](#stability)
@@ -307,11 +307,13 @@ __Software deviations are defined as exemptions granted for software requirement
 * Force pushing branches SHOULD be avoided.
 * In the event of a force pushed branch, backup branches of the pre-forced HEAD MUST be made.
 
-## JIRA
+## Gitlab
 
-* Device maintainer(s) MUST have a JIRA account for bug tracking and cross-team collaboration.
-* Device maintainer(s) MUST routinely triage, answer and close JIRA reports.
-* Device maintainer(s) SHOULD make their JIRA name match their maintainer name as displayed on the Wiki.
+* Device maintainer(s) MUST have a Gitlab account for bug tracking and cross-team collaboration.
+* Device maintainer(s) MUST routinely triage, answer and close Gitlab Issues pertaining to their device.
+* Device maintainer(s) SHOULD make their Gitlab name match their maintainer name as displayed on the Wiki.
+
+_Note: We no longer use JIRA for bug-tracking._
 
 ## Licensing
 
