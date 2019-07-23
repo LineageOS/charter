@@ -49,6 +49,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Software Deviations](#software-deviations)
 * [Quality of life](#quality-of-life)
   * [Commit Authorship](#commit-authorship)
+  * [Original Commits](#original-commits)
   * [Copyrights](#copyrights)
   * [Workflow](#workflow)
   * [GitLab Issue Tracker](#gitlab-issue-tracker)
@@ -295,6 +296,10 @@ __Software deviations are defined as exemptions granted for software requirement
 ## Commit Authorship
 
 * All non-original commits MUST have proper authorship attribution from the source it was taken from or adapted from.
+
+## Original Commits
+
+* A device maintainer MUST have original commits to show competency in being able to diagnose and fix bugs withiut relying purely on cherry-picking.
 
 ## Copyrights
 
