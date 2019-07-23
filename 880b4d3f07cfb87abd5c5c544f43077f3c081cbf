@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "834a821e_b1d3c455",
+        "filename": "directors-working-agreement.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2019-07-23T23:33:47Z",
+      "side": 1,
+      "message": "Minor nit-pick, but if we are changing this line I think we should get rid of that extra space at the end.",
+      "revId": "880b4d3f07cfb87abd5c5c544f43077f3c081cbf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
