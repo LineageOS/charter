@@ -45,6 +45,29 @@
       "revId": "81364ff3715812b399006115dcfd8065b94010e4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b5b29fc4_bf22ab21",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 302,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2019-07-23T10:34:27Z",
+      "side": 1,
+      "message": "that?\n\nto show in this context can mean 2 things:\na) just by having original commits, a device maintainer is competent\nb) good original commits which show a device maintainer is competent",
+      "range": {
+        "startLine": 302,
+        "startChar": 49,
+        "endLine": 302,
+        "endChar": 51
+      },
+      "revId": "81364ff3715812b399006115dcfd8065b94010e4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
