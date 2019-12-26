@@ -162,6 +162,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 ## Proximity
 
 * All devices with a proximity sensor MUST support the proximity sensor.
+* All device with an ultrasonic proximity sensor SHOULD support the ultrasonic proximity sensor.
 
 ## Light
 
