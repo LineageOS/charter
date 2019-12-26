@@ -249,7 +249,7 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 ## Root (su)
 
 * All devices MUST NOT ship with su included.
-* All devices MUST support su installation via LineageOS provided ‘Extras’ download.
+* All devices shipping LineageOS 16.0 or earlier MUST support su installation via LineageOS provided ‘Extras’ download.
 
 ## Non-PIE Blobs
 
