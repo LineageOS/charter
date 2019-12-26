@@ -337,10 +337,10 @@ __Software deviations are defined as exemptions granted for software requirement
 
 * Maintainers MUST document for users on the Wiki a valid Recovery image by which to install LineageOS zip files.
 * Devices that do not have traditional Recovery images MUST support & document another means of installation for LineageOS zip files.
+* Maintainers MUST verify that Lineage Recovery official distributions work for LineageOS installation.
+* Maintainers SHOULD ship Lineage recovery as the default solution for their device on the wiki, though may provide TWRP, or any valid recovery image so long as they have valid installation instructions on the Wiki.
 * Maintainers SHOULD verify that Teamwin Recovery Project (TWRP) official distributions work for LineageOS installation.
-* Failures in official TWRP recoveries should be raised with the TWRP team or remedied by the maintainer.
-* Maintainers SHOULD provide a custom recovery link in Wiki documentation if TWRP does not officially support their device.
-
+* Failures in official TWRP recoveries SHOULD be raised with the TWRP team or remedied by the maintainer.
 
 # Exceptions
 
