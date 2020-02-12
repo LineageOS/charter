@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "625c722f_0f684ddb",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 263,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2020-02-12T20:29:59Z",
+      "side": 1,
+      "message": "perhaps \"original source of those proprietary files\".  I could otherwise see comments in proprietary-files.txt pointing to other lineage devices as the \"source\".",
+      "revId": "dbc3de6b3e5733d10fa4e5dcac579abb3fc8e176",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
