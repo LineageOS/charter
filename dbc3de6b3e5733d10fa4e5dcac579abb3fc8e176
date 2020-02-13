@@ -48,6 +48,23 @@
     },
     {
       "key": {
+        "uuid": "58252fc7_6084d1af",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 262,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2020-02-13T10:10:42Z",
+      "side": 1,
+      "message": "is this meant to read \"from the same OEM\" or \"from an OEM\" (i.e. not built from some random leaked BSP)?",
+      "revId": "dbc3de6b3e5733d10fa4e5dcac579abb3fc8e176",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "625c722f_0f684ddb",
         "filename": "device-support-requirements.md",
         "patchSetId": 1
