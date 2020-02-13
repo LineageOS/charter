@@ -16,6 +16,24 @@
       "revId": "dbc3de6b3e5733d10fa4e5dcac579abb3fc8e176",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fcd14153_649ac283",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 263,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2020-02-13T00:12:40Z",
+      "side": 1,
+      "message": "Yeah, \"original source\", \"released OEM image/version\", something. We def don\u0027t want the circular reference game being played.",
+      "parentUuid": "625c722f_0f684ddb",
+      "revId": "dbc3de6b3e5733d10fa4e5dcac579abb3fc8e176",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
