@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "c9516f0b_c8f8513f",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 262,
+      "author": {
+        "id": 17257
+      },
+      "writtenOn": "2020-02-13T00:24:59Z",
+      "side": 1,
+      "message": "SHOULD",
+      "range": {
+        "startLine": 262,
+        "startChar": 10,
+        "endLine": 262,
+        "endChar": 14
+      },
+      "revId": "dbc3de6b3e5733d10fa4e5dcac579abb3fc8e176",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "625c722f_0f684ddb",
         "filename": "device-support-requirements.md",
         "patchSetId": 1
