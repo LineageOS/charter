@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a886638b_81284332",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 338,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2020-02-19T16:06:37Z",
+      "side": 1,
+      "message": ".1",
+      "range": {
+        "startLine": 338,
+        "startChar": 43,
+        "endLine": 338,
+        "endChar": 44
+      },
+      "revId": "55177e83e28673a0091faab1f44e4c4463434e12",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
