@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d3fab578_a331dcf9",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 263,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2020-03-26T22:22:57Z",
+      "side": 1,
+      "message": "I think this is missing the word \u0027of\u0027 here?",
+      "range": {
+        "startLine": 263,
+        "startChar": 76,
+        "endLine": 263,
+        "endChar": 77
+      },
+      "revId": "3f4ff82172058c0f36b5e41d2f27c42695e7e955",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
