@@ -322,6 +322,7 @@ __Software deviations are defined as exemptions granted for software requirement
 * All devices with a shipping build of LineageOS MUST have a Wiki page with valid installation instructions.
 * All devices with a shipping build of LineageOS MUST document Hardware Deviations from stock capabilities.
 * All devices with a shipping build of LineageOS MUST document Software Deviations from other LineageOS releases of the same device type.
+* All devices with a shipping build of LineageOS MUST document all model numbers supported in a build.
 
 ## Stability
 
