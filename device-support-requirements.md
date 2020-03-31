@@ -363,6 +363,7 @@ All currently granted exceptions should be listed in the following table. To req
 | 2018/02/12 | hlte[can/tmo/usc/vzw] | NFC                         | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
 | 2018/05/21 | Tegra chipsets     | Hardware Codecs                | Devices using the t30, t114, t124, or t132 chipsets have closed source OMX libraries incompatible with even the non-treble OMX interface in Oreo. |
 | 2019/10/21 | s3ve3g.            | NFC                         | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
+| 2020/03/31 | Exynos chipsets    | Proprietary files extraction   | We bought an Exynos Development board back in 2017 which comes with a BSP, since this is a bought BSP we are legally allowed to redistribute binaries from it |
 ---
 
 __This document is licensed CC-BY-3.0, with portions adapted from Google’s CDD requirements.__
