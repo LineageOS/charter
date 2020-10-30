@@ -17,7 +17,6 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Bluetooth](#bluetooth)
   * [Camera](#camera)
   * [Video Recording](#video-recording)
-  * [Codecs](#codecs)
   * [Display](#display)
   * [NFC](#nfc)
   * [Fingerprint Sensor](#fingerprint-sensor)
@@ -126,10 +125,6 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 ## Video Recording
 
 * All devices with Video Recording supported in their stock OS MUST support Video Recording, in both front facing and rear camera configurations.
-
-## Codecs
-
-* All devices with hardware encoding/decoding support in their stock OS MUST support hardware encoding/decoding for all non-proprietary codecs supported by their stock OS.
 
 ## Display
 
@@ -361,7 +356,6 @@ All currently granted exceptions should be listed in the following table. To req
 | 2018/02/08 | Samsung            | Hardware Encryption            | Samsung devices that cannot support hardware encryption due to Knox/Tee are exempted from the hardware crypto requirements. MUST still support software crypto. |
 | 2018/02/11 | Android TV devices | In-Remote Microphones          | Requires proprietary audio routing/methods that have no OSS counterpart, and rely on proprietary functions. MUST support Microphone input through the Android TV Remote app.|
 | 2018/02/12 | hlte[can/tmo/usc/vzw] | NFC                         | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
-| 2018/05/21 | Tegra chipsets     | Hardware Codecs                | Devices using the t30, t114, t124, or t132 chipsets have closed source OMX libraries incompatible with even the non-treble OMX interface in Oreo. |
 | 2019/10/21 | s3ve3g.            | NFC                         | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
 ---
 
