@@ -273,8 +273,8 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 
 * All devices MUST assert on known to be working firmware versions if some firmware versions are known to be non-working.
 * A/B devices are exempted from the above rule, and instead must do one of the following:
-** If the device is capable of shipping firmware it MUST do so.
-** If the device is not capable of shipping firmware (eg. a device with multiple variants supported in one build) the device MUST ensure both slots are on a known good firmware (eg. using the copy-partitions before_lineage_install template on the Wiki).
+  * If the device is capable of shipping firmware it MUST do so.
+  *  If the device is not capable of shipping firmware (eg. a device with multiple variants supported in one build) the device MUST ensure both slots are on a known good firmware (eg. using the copy-partitions before_lineage_install template on the Wiki).
 
 ## exFAT Support
 
