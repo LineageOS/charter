@@ -129,7 +129,8 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 ## Codecs
 
-* All devices with hardware encoding/decoding support in their stock OS MUST support hardware encoding/decoding for all non-proprietary codecs supported by their stock OS.
+* All mobile devices with hardware encoding/decoding support in their stock OS MUST support hardware encoding/decoding for all non-proprietary codecs supported by their stock OS.
+* All ATV devices with hardware encoding/decoding support in their stock OS SHOULD support hardware encoding/decoding for all non-proprietary codecs supported by their stock OS.
 
 ## Display
 
