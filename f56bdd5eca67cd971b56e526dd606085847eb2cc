@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6050b870_5e4720ce",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2021-09-24T19:03:00Z",
+      "side": 1,
+      "message": "tempted to just make the whole thing a /should/, as not every device with L1 on stock can support /all/ of the codecs that stock supports?",
+      "range": {
+        "startLine": 132,
+        "startChar": 0,
+        "endLine": 133,
+        "endChar": 177
+      },
+      "revId": "f56bdd5eca67cd971b56e526dd606085847eb2cc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
