@@ -312,7 +312,7 @@ __Software deviations are defined as exemptions granted for software requirement
 
 * All original contributions MUST be copyrighted as “(C) [YEAR] The LineageOS Project”.
 * All LineageOS copyrights MUST only be additive to the copyright header.
-* Do not remove copyrights from CyanogenMod, Cyanogen Inc or any other upstream.
+* You MUST NOT remove copyrights from CyanogenMod, Cyanogen Inc or any other upstream.
 
 ## Workflow
 
