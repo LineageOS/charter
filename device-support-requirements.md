@@ -354,6 +354,10 @@ __Software deviations are defined as exemptions granted for software requirement
 * Maintainers SHOULD verify that Teamwin Recovery Project (TWRP) official distributions work for LineageOS installation.
 * Failures in official TWRP recoveries SHOULD be raised with the TWRP team or remedied by the maintainer.
 
+## Addon packages
+
+* Maintainers wishing to ship LineageOS 19.0+ for their device MUST verify addon packages listed on the wiki can be installed through Lineage Recovery.
+
 # Exceptions
 
 All currently granted exceptions should be listed in the following table. To request an exception, please submit a change to this repository.
