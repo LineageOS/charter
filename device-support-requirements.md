@@ -258,7 +258,7 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 ## Proprietary files extraction
 
 * Devices MUST have a working proprietary files extraction script in their device tree (or device tree dependencies) that reproduces an exact copy of the binaries required to build LineageOS from an existing LineageOS installation.
-* Devices SHOULD use the global extraction script (located in vendor/lineage).
+* Devices SHOULD use the global extraction script (located in tools/extract-utils).
 * If a device maintainer elects to not use the common extraction script, the maintainer MUST ensure that the Wiki page for their device has valid instructions for operating the custom extraction script.
 * Devices MUST use proprietary files extracted from, in order of preference, the same device's publicly-released image, another device's publicly-released image, or some other source with appropriately transferrable use/release/dissemination rights. In the event of the last option, artifacts documenting suitable transferability of rights MUST be provided to LineageOS project leadership.
 * All proprietary files lists MUST contain a short comment noting the source of any un-pinned (default) proprietary files.
