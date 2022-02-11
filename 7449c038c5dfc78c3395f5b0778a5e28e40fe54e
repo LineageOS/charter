@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "71a87ba3_72917405",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-02-11T20:44:58Z",
+      "side": 1,
+      "message": "We tend to not move the goal posts on already shipping branches. As it\u0027s written, and assuming this gets submitted before 19 ship date, it does not require dropping any devices.",
+      "parentUuid": "8b9e6898_78230911",
+      "revId": "7449c038c5dfc78c3395f5b0778a5e28e40fe54e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8c9bf0ad_cb87eda3",
