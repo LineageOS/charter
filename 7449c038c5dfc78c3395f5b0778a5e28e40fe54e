@@ -36,6 +36,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "fe935cd7_61cf3719",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2022-02-11T20:51:03Z",
+      "side": 1,
+      "message": "i was only talking about setting up a goal post for not yet shipping devices, see my inline comment.\nanyway, was just suggesting it",
+      "parentUuid": "71a87ba3_72917405",
+      "revId": "7449c038c5dfc78c3395f5b0778a5e28e40fe54e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8c9bf0ad_cb87eda3",
