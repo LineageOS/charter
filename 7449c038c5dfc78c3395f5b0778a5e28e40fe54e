@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8b9e6898_78230911",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2022-02-11T20:29:45Z",
+      "side": 1,
+      "message": "That way devices already shipping don\u0027t suddenly need to be dropped while anyone bringing up a new device to an older branch also has to follow this",
+      "revId": "7449c038c5dfc78c3395f5b0778a5e28e40fe54e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8c9bf0ad_cb87eda3",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 357,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2022-02-11T20:29:45Z",
+      "side": 1,
+      "message": "Maintainers wishing to ship LineageOS 19.0+ or start shipping 18.1 freshly MUST... ?",
+      "range": {
+        "startLine": 357,
+        "startChar": 2,
+        "endLine": 357,
+        "endChar": 1
+      },
+      "revId": "7449c038c5dfc78c3395f5b0778a5e28e40fe54e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
