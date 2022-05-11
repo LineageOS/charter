@@ -263,6 +263,7 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 * Devices MUST use proprietary files extracted from, in order of preference, the same device's publicly-released image, another device's publicly-released image, or some other source with appropriately transferrable use/release/dissemination rights. In the event of the last option, artifacts documenting suitable transferability of rights MUST be provided to LineageOS project leadership.
 * All proprietary files lists MUST contain a short comment noting the source of any un-pinned (default) proprietary files.
 * Any proprietary files not sourced from the noted default MUST be pinned in the respective proprietary files list and have a short comment noting the source of those proprietary files.
+* Devices MUST NOT include blobs belonging to Megvii Technology Ltd. or SenseTime Group Ltd.
 
 ## CVE
 
