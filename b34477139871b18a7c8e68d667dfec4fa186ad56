@@ -16,6 +16,23 @@
       "message": "...",
       "revId": "b34477139871b18a7c8e68d667dfec4fa186ad56",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2e61fda3_399c4568",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2022-05-11T11:53:14Z",
+      "side": 1,
+      "message": "\"Those source codes are not licensed under any open source license\", or blobs that gets dmca",
+      "revId": "b34477139871b18a7c8e68d667dfec4fa186ad56",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
