@@ -133,7 +133,8 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 ## Display
 
-* All devices with a built-in Display MUST support the Display at the same resolution and density as the stock OS.
+* All devices with a built-in Display MUST support the Display at the same resolution as the stock OS.
+* All devices with a built-in Display SHOULD support the Display at the same density as the stock OS.
 * All devices that do not include a built-in Display MUST support Display output via the hardware’s supported outputs (eg. Android TV - HDMI).
 * All devices that support additional non-USB display interfaces SHOULD support those display output methods.
 * All devices that support a USB-out display in their stock OS SHOULD support this display output (eg. MHL/Miracast/OTG).
