@@ -16,6 +16,24 @@
       "message": "How about adding: \"All devices with a built-in Display SHOULD support the Display at the same density as the stock OS.\" as well?",
       "revId": "03ded2b2636f5d280386c15717fb46f5223a4dfc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a48c5917_d87e84c3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2022-06-05T20:36:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6ebe8acb_5bfc6d80",
+      "revId": "03ded2b2636f5d280386c15717fb46f5223a4dfc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
