@@ -56,7 +56,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Licensing](#licensing)
   * [Wiki](#wiki)
   * [Stability](#stability)
-  * [Recovery](#recovery)
+  * [Lineage Recovery](#lineage-recovery)
 * [Exceptions](#exceptions)
 
 # Attaining exceptions
@@ -345,14 +345,11 @@ __Software deviations are defined as exemptions granted for software requirement
 * Issues like the "screen of death" MUST NOT affect the device.
 * The device MUST NOT have abnormal battery drain.
 
-## Recovery
+## Lineage Recovery
 
-* Maintainers MUST document for users on the Wiki a valid Recovery image by which to install LineageOS zip files.
-* Devices that do not have traditional Recovery images MUST support & document another means of installation for LineageOS zip files.
-* Maintainers wishing to ship LineageOS 17.0+ for their device MUST verify official Lineage Recovery distributions work for LineageOS installation.
-* Maintainers SHOULD ship Lineage recovery as the default solution for their device on the Wiki, though may provide TWRP, or any valid recovery image so long as they have valid installation instructions on the Wiki.
-* Maintainers SHOULD verify that Teamwin Recovery Project (TWRP) official distributions work for LineageOS installation.
-* Failures in official TWRP recoveries SHOULD be raised with the TWRP team or remedied by the maintainer.
+* Maintainers MUST verify official Lineage Recovery distributions work for LineageOS installation.
+* Maintainers MUST ship Lineage Recovery as the default solution for their device on the Wiki.
+* Devices that do not have traditional recovery images MUST support & document another means of installation for LineageOS zip files.
 
 # Exceptions
 
