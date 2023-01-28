@@ -87,6 +87,24 @@
       "parentUuid": "0bf412bc_f4f0e41d",
       "revId": "cbbf35064296e5062e4a990e0807632c810a8163",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "47a4479d_5d5c23d0",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 286,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-01-28T23:39:01Z",
+      "side": 1,
+      "message": "better?",
+      "parentUuid": "4490633c_3efec037",
+      "revId": "cbbf35064296e5062e4a990e0807632c810a8163",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
