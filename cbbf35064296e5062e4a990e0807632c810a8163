@@ -16,6 +16,23 @@
       "message": "As noted by Luk, Fedora also ships this on 5.7+",
       "revId": "cbbf35064296e5062e4a990e0807632c810a8163",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "88aad75a_80bcd8ce",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 286,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2023-01-28T22:47:26Z",
+      "side": 1,
+      "message": "i don\u0027t think \"a kernel based implementations\" will do, it had to be _that_ implementation found in Linux mainline since 5.7",
+      "revId": "cbbf35064296e5062e4a990e0807632c810a8163",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
