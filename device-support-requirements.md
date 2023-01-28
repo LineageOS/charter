@@ -282,8 +282,9 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 
 __LineageOS operates under the assumption that OEM device licensing for exFAT is attached to the device, not software. LineageOS will comply with all requests for removal of exFAT support from OEMs, Microsoft or their representatives upon contact to legal@lineageos.org.__
 
-* All devices with exFAT support on stock MAY support exFAT with (and only with) a kernel based implementation.
-* All devices without exFAT support on stock MUST NOT support exFAT.
+* All devices with with a Linux kernel version of 5.7 or lower with exFAT support on stock MAY support exFAT with (and only with) a kernel based implementation of the maintainers choice.
+* All devices shipping with a Linux kernel version 5.7 or greater MAY support exFAT with the mainline Linux implementation, or the vendor implementation provided by the vendor.
+* All devices not meeting one of the above requirements MUST NOT support exFAT.
 
 ## Additional Features
 
