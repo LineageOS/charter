@@ -69,6 +69,24 @@
       "parentUuid": "0bf412bc_f4f0e41d",
       "revId": "cbbf35064296e5062e4a990e0807632c810a8163",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4490633c_3efec037",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 286,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2023-01-28T23:08:31Z",
+      "side": 1,
+      "message": "because they likely bought the license and are allowed to use it on their devices.\nyes, it would be then\n\"The implementation found in Linux Kernel 5.7 or the vendor provided implementation\"\nor something along those lines?",
+      "parentUuid": "0bf412bc_f4f0e41d",
+      "revId": "cbbf35064296e5062e4a990e0807632c810a8163",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
