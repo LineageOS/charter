@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cdb6c2b4_385a3620",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-01-28T22:45:26Z",
+      "side": 1,
+      "message": "As noted by Luk, Fedora also ships this on 5.7+",
+      "revId": "cbbf35064296e5062e4a990e0807632c810a8163",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
