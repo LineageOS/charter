@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "a57485ab_3a2ff885",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19282
+      },
+      "writtenOn": "2023-02-03T09:16:34Z",
+      "side": 1,
+      "message": "\u003e As noted by Luk, Fedora also ships this on 5.7+\n\nThey also joined the OIN though.\n\nhttps://openinventionnetwork.com/directory-community",
+      "parentUuid": "cdb6c2b4_385a3620",
+      "revId": "cbbf35064296e5062e4a990e0807632c810a8163",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "88aad75a_80bcd8ce",
