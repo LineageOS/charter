@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "216382ce_a07aab5d",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 285,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2023-02-23T12:02:06Z",
+      "side": 1,
+      "message": "5.7 and upwards is covered by the second case, so this should be \"lower than 5.7\" instead of \"5.7 or lower\", shouldn\u0027t it?",
+      "range": {
+        "startLine": 285,
+        "startChar": 19,
+        "endLine": 285,
+        "endChar": 62
+      },
+      "revId": "8ed958e2e8459cf4e1dc9363c5ac36f1acbddbbe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
