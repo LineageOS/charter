@@ -359,6 +359,10 @@ __Software deviations are defined as exemptions granted for software requirement
 
 * Maintainers wishing to ship LineageOS 19.0+ for their device MUST verify addon packages listed on the wiki can be installed through Lineage Recovery.
 
+## Device ownership
+
+* Maintainers MUST own the device or at least a variant of it (devices with similar hardware but a different marketing name are allowed).
+
 # Exceptions
 
 All currently granted exceptions should be listed in the following table. To request an exception, please submit a change to this repository.
