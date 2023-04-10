@@ -5,6 +5,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 ### Table of Contents
 
+* [Device ownership](#device-ownership)
 * [Attaining exceptions](#attaining-exceptions)
   * [Process](#process)
 * [Hardware Support](#hardware-support)
@@ -57,7 +58,12 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Wiki](#wiki)
   * [Stability](#stability)
   * [Recovery](#recovery)
+  * [Addon packages] (#addon-packages)
 * [Exceptions](#exceptions)
+
+# Device ownership
+
+* Maintainers MUST own the device or at least a variant of it (devices with similar hardware but a different marketing name are allowed).
 
 # Attaining exceptions
 
