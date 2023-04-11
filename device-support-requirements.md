@@ -374,7 +374,8 @@ All currently granted exceptions should be listed in the following table. To req
 | 2018/02/08 | Samsung            | Hardware Encryption            | Samsung devices that cannot support hardware encryption due to Knox/Tee are exempted from the hardware crypto requirements. MUST still support software crypto. |
 | 2018/02/11 | Android TV devices | In-Remote Microphones          | Requires proprietary audio routing/methods that have no OSS counterpart, and rely on proprietary functions. MUST support Microphone input through the Android TV Remote app.|
 | 2018/02/12 | hlte[can/tmo/usc/vzw] | NFC                         | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
-| 2019/10/21 | s3ve3g.            | NFC                         | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
+| 2019/10/21 | s3ve3g*            | NFC                         | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
+| 2023/04/11 | FDE devices | Encryption | As of Android 13, FDE is no longer supported. Some devices have custom keymaster HAL implementations that only allow FDE to function. Devices only capable of using FDE that are promoted to LineageOS 20 or above are exempted from encryption requirements. |
 ---
 
 __This document is licensed CC-BY-3.0, with portions adapted from Google’s CDD requirements.__
