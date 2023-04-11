@@ -375,6 +375,7 @@ All currently granted exceptions should be listed in the following table. To req
 | 2018/02/11 | Android TV devices | In-Remote Microphones          | Requires proprietary audio routing/methods that have no OSS counterpart, and rely on proprietary functions. MUST support Microphone input through the Android TV Remote app.|
 | 2018/02/12 | hlte[can/tmo/usc/vzw] | NFC                         | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
 | 2019/10/21 | s3ve3g.            | NFC                         | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
+| 2023/04/11 | LGE legacy-UM      | Encryption                     | These devices cannot support encryption due to LG's custom Keymaster implementation/firmware which is incompatible with FDE, which is removed in Android 13. These devices are exempted from the encryption requirements. |
 ---
 
 __This document is licensed CC-BY-3.0, with portions adapted from Google’s CDD requirements.__
