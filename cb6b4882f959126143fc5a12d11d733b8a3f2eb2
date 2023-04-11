@@ -16,6 +16,98 @@
       "message": "a. can\u0027t move to FBE due to HAL incompat and TEE applet incompat\nb. FDE is dead on 13\nc. These weren\u0027t forceencrypt on stock anyway",
       "revId": "cb6b4882f959126143fc5a12d11d733b8a3f2eb2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4e2ef207_dee9dc6f",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 378,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-04-11T18:57:29Z",
+      "side": 1,
+      "message": "extra space",
+      "range": {
+        "startLine": 378,
+        "startChar": 293,
+        "endLine": 378,
+        "endChar": 294
+      },
+      "revId": "cb6b4882f959126143fc5a12d11d733b8a3f2eb2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4872a6eb_4a7ac4ab",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 378,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-04-11T18:57:29Z",
+      "side": 1,
+      "message": "use",
+      "range": {
+        "startLine": 378,
+        "startChar": 194,
+        "endLine": 378,
+        "endChar": 201
+      },
+      "revId": "cb6b4882f959126143fc5a12d11d733b8a3f2eb2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "786cc150_9b36d5f1",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 378,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-04-11T18:57:29Z",
+      "side": 1,
+      "message": "keymaster HAL",
+      "range": {
+        "startLine": 378,
+        "startChar": 113,
+        "endLine": 378,
+        "endChar": 122
+      },
+      "revId": "cb6b4882f959126143fc5a12d11d733b8a3f2eb2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "08a3dce6_b66869ef",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 378,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-04-11T18:57:29Z",
+      "side": 1,
+      "message": "devices",
+      "range": {
+        "startLine": 378,
+        "startChar": 19,
+        "endLine": 378,
+        "endChar": 26
+      },
+      "revId": "cb6b4882f959126143fc5a12d11d733b8a3f2eb2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
