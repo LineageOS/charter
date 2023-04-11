@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5e5c8ba6_56f17cf9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-04-11T16:51:29Z",
+      "side": 1,
+      "message": "a. can\u0027t move to FBE due to HAL incompat and TEE applet incompat\nb. FDE is dead on 13\nc. These weren\u0027t forceencrypt on stock anyway",
+      "revId": "cb6b4882f959126143fc5a12d11d733b8a3f2eb2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
