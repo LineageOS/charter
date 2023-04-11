@@ -108,6 +108,102 @@
       },
       "revId": "cb6b4882f959126143fc5a12d11d733b8a3f2eb2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b5a0bea1_c7a9468b",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 378,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-04-11T19:04:12Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "4872a6eb_4a7ac4ab",
+      "range": {
+        "startLine": 378,
+        "startChar": 194,
+        "endLine": 378,
+        "endChar": 201
+      },
+      "revId": "cb6b4882f959126143fc5a12d11d733b8a3f2eb2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f913df90_d5dfb2a9",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 378,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-04-11T19:04:12Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "786cc150_9b36d5f1",
+      "range": {
+        "startLine": 378,
+        "startChar": 113,
+        "endLine": 378,
+        "endChar": 122
+      },
+      "revId": "cb6b4882f959126143fc5a12d11d733b8a3f2eb2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "65a91a2c_756abac7",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 378,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-04-11T19:04:12Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "4e2ef207_dee9dc6f",
+      "range": {
+        "startLine": 378,
+        "startChar": 293,
+        "endLine": 378,
+        "endChar": 294
+      },
+      "revId": "cb6b4882f959126143fc5a12d11d733b8a3f2eb2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b8152a70_3cf0c4c8",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 378,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-04-11T19:04:12Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "08a3dce6_b66869ef",
+      "range": {
+        "startLine": 378,
+        "startChar": 19,
+        "endLine": 378,
+        "endChar": 26
+      },
+      "revId": "cb6b4882f959126143fc5a12d11d733b8a3f2eb2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
