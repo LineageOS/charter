@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8fdfd475_ceb1dd92",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 11
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5008
+      },
+      "writtenOn": "2023-04-14T20:53:39Z",
+      "side": 1,
+      "message": "Can we limit this to just the vendor that did this and add a requirement that it\u0027s documented clearly as some prominent warning on the wiki?",
+      "revId": "7ecb03eb36d53ac074d1c89e7aae9d1dde70e275",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
