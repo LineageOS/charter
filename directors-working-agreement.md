@@ -27,3 +27,13 @@ As LineageOS Project Directors, we:
     * A Director is found to be in continued violation of the Code of Conduct or this Working Agreement, after an initial warning.
     * A vote among Project Directors constituting a supermajority (6 out of 9).
     * At least one LineageOS LLC owner signs off on result of the vote.
+8. A Director will be removed due to inactivity if ALL of the following conditions are met:
+    * Lack of new commits for a period of 9 months or more.
+    * Lack of contribution to processes or infrastructure for a period of 9 months or more.
+    * Lack of participation in chats for a period of 9 months or more.
+    * Lack of remediaton after to no less than 3 attempts to contact the Director in queston.
+    * At least one LineageOS LLC owner signs off on the removal.
+    * NOTE: If a Director is removed in good standing via this method, the following actions will take place:
+         * They will be moved from the "Head Developers" Gerrit group to the "Retired Directors" Gerrit group, which inherits the "Committers-Inactive" group, thus retaining global Code-Approval permissions.
+         * Their GitHub/GitLab permissions will be restricted to that of a Maintainer.
+         * They will remain in any/all private Directorial communication channels with retained abillity to provide thoughts on project direction/decisions.
