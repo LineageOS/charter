@@ -16,6 +16,23 @@
       "message": "This is largely an RFC, but also IMO very project-critical.\n\nOut of respect for all I\u0027ve only included relevant committers who have already expressed the importance of this need, as well as the directorial group themselves - though we haven\u0027t all agreed on the wording, but the sentiment is shared.\n\nSometimes we grow, and our lives move on - it\u0027s important that we not only allow that but still value the opinions of those who have had a large impact on the project (hence the remaining in private channels/retained +2).\n\nOpen to thoughts and wording changes. Want to make this as future-proof as possible.\n\nNote: 6 months may be aggressive, maybe 9, 12?",
       "revId": "e983cb436ac0a5b23ffefa9362e5cabe929f3858",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3811b880_511de44f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-07-15T19:13:02Z",
+      "side": 1,
+      "message": "also of note: there is currently no stated provision for editing this agreement, potentially we should precede this with a formal process to edit the document?",
+      "revId": "e983cb436ac0a5b23ffefa9362e5cabe929f3858",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
