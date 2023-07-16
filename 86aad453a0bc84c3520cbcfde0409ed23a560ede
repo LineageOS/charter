@@ -68,6 +68,24 @@
       "parentUuid": "b96fe9d6_840aa4f0",
       "revId": "86aad453a0bc84c3520cbcfde0409ed23a560ede",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "70cf1e00_3153e175",
+        "filename": "directors-working-agreement.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2023-07-16T17:15:18Z",
+      "side": 1,
+      "message": "Rule 6 has it mentioned, but as written only applies to that specific rule?\nSo rule 7 also doesn\u0027t have a dedicated \"what happens, if...\"\nAgree, should maybe be generalized",
+      "parentUuid": "b96fe9d6_840aa4f0",
+      "revId": "86aad453a0bc84c3520cbcfde0409ed23a560ede",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
