@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "95fcad3f_51f43139",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-07-16T17:23:43Z",
+      "side": 1,
+      "message": "One to follow inactivity - if there\u0027s anything else weblike to add now would be a good time.",
+      "revId": "0c2df35e9b0783b9a2ee8546466cbf19806fb165",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
