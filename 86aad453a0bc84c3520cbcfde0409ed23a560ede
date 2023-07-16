@@ -50,6 +50,24 @@
       "message": "Given this and a lot of the rules below have 9 hardcoded, what happens when a director is removed? New director gets appointed?\n\nThis can be it\u0027s own thing, given a new director could potentially be appointed either way.",
       "revId": "86aad453a0bc84c3520cbcfde0409ed23a560ede",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d39e26ce_7613489e",
+        "filename": "directors-working-agreement.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-07-16T17:14:40Z",
+      "side": 1,
+      "message": "I would say that best lives in a follow up.",
+      "parentUuid": "b96fe9d6_840aa4f0",
+      "revId": "86aad453a0bc84c3520cbcfde0409ed23a560ede",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
