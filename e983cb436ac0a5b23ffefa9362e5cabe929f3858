@@ -52,6 +52,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "538704b9_8d7510da",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2023-07-16T04:00:33Z",
+      "side": 1,
+      "message": "I think 12 months would be a more typical alignment for this kind of addition.",
+      "parentUuid": "e76b8b33_e3e7ad6d",
+      "revId": "e983cb436ac0a5b23ffefa9362e5cabe929f3858",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "68dfa6e6_76a8e915",
