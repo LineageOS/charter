@@ -86,6 +86,24 @@
       "parentUuid": "b96fe9d6_840aa4f0",
       "revId": "86aad453a0bc84c3520cbcfde0409ed23a560ede",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c50b158c_a2106030",
+        "filename": "directors-working-agreement.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-07-16T17:20:35Z",
+      "side": 1,
+      "message": "pushing a follow up PS we can work on to avoid entangling smaller stuff with this.",
+      "parentUuid": "70cf1e00_3153e175",
+      "revId": "86aad453a0bc84c3520cbcfde0409ed23a560ede",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
