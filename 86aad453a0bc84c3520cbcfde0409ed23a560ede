@@ -33,6 +33,23 @@
       "message": "make public?",
       "revId": "86aad453a0bc84c3520cbcfde0409ed23a560ede",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b96fe9d6_840aa4f0",
+        "filename": "directors-working-agreement.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2023-07-16T17:10:59Z",
+      "side": 1,
+      "message": "Given this and a lot of the rules below have 9 hardcoded, what happens when a director is removed? New director gets appointed?\n\nThis can be it\u0027s own thing, given a new director could potentially be appointed either way.",
+      "revId": "86aad453a0bc84c3520cbcfde0409ed23a560ede",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
