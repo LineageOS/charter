@@ -1,5 +1,7 @@
 # Directors Working Agreement
 
+* This document shall be modifyable so long as a super majority (defined as 60% or higher approval) of Directors approve changes.
+
 ## Our Pledge
 
 As LineageOS Project Directors, we:
@@ -7,6 +9,7 @@ As LineageOS Project Directors, we:
 * Commit to working among ourselves and contributors with professionalism and respect - providing well reasoned arguments for any policy decision made. 
 * Commit to establishing project goals and execution plan.
 * Commit to ensuring a safe and productive working environment for our contributors - adhering to the Code of Conduct. 
+
 
 ## Our Rules:
 1. We will operate on a majority rules basis (5 out of 9) for most scenarios, with the following exceptions:
@@ -27,3 +30,7 @@ As LineageOS Project Directors, we:
     * A Director is found to be in continued violation of the Code of Conduct or this Working Agreement, after an initial warning.
     * A vote among Project Directors constituting a supermajority (6 out of 9).
     * At least one LineageOS LLC owner signs off on result of the vote.
+
+## Directorial Appointment
+* If a Director either steps down, or is removed via the above proceedures, new Directorial nominations may be made by any remaining Directors.
+* A new Director must be appointed within 2 months of the relevant retirement/removal.
