@@ -16,6 +16,23 @@
       "message": "razor had another comment about a stray \"to\" - fixed",
       "revId": "86aad453a0bc84c3520cbcfde0409ed23a560ede",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b23a272e_cf573adc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2023-07-16T12:37:35Z",
+      "side": 1,
+      "message": "make public?",
+      "revId": "86aad453a0bc84c3520cbcfde0409ed23a560ede",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
