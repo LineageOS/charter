@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c64880d1_537bc9d9",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2023-07-17T17:26:12Z",
+      "side": 1,
+      "message": "maybe need an s on the end here?",
+      "range": {
+        "startLine": 165,
+        "startChar": 51,
+        "endLine": 165,
+        "endChar": 55
+      },
+      "revId": "43a1447c629aea6af9ec9a36690968888e574e76",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
