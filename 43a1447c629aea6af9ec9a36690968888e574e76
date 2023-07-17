@@ -22,6 +22,30 @@
       },
       "revId": "43a1447c629aea6af9ec9a36690968888e574e76",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "825685b2_2f7dc89b",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2023-07-17T17:28:25Z",
+      "side": 1,
+      "message": "Not sure, maybe some native English speaker could say something about that.",
+      "parentUuid": "c64880d1_537bc9d9",
+      "range": {
+        "startLine": 165,
+        "startChar": 51,
+        "endLine": 165,
+        "endChar": 55
+      },
+      "revId": "43a1447c629aea6af9ec9a36690968888e574e76",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
