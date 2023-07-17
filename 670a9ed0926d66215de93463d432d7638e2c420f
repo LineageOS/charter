@@ -16,6 +16,24 @@
       "message": "sdcard Vs SD Card?",
       "revId": "670a9ed0926d66215de93463d432d7638e2c420f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7585e728_2f60459d",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 164,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2023-07-17T17:17:29Z",
+      "side": 1,
+      "message": "Done, wiki page is called \"SD card\" so I didn\u0027t make \"C\" uppercase.",
+      "parentUuid": "308efa58_ec7b27fa",
+      "revId": "670a9ed0926d66215de93463d432d7638e2c420f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
