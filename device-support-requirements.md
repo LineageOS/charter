@@ -23,6 +23,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [NFC](#nfc)
   * [Fingerprint Sensor](#fingerprint-sensor)
   * [IR](#ir)
+  * [SD card](#sd-card)
   * [Accelerometer](#accelerometer)
   * [Gyroscope](#gyroscope)
   * [Proximity](#proximity)
@@ -158,6 +159,11 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 ## IR
 
 * All devices with an IR blaster SHOULD support IR blaster.
+
+## SD card
+
+* All devices with an SD card slot MUST support SD cards.
+* All devices with an SD card slot SHOULD support adoptable storage.
 
 ## Accelerometer
 
