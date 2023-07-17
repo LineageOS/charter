@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "308efa58_ec7b27fa",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 164,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2023-07-17T17:15:31Z",
+      "side": 1,
+      "message": "sdcard Vs SD Card?",
+      "revId": "670a9ed0926d66215de93463d432d7638e2c420f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
