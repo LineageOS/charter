@@ -70,6 +70,30 @@
       },
       "revId": "43a1447c629aea6af9ec9a36690968888e574e76",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f0da7182_5ac4c50c",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-07-17T22:16:59Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c94ee59d_2c2c91a6",
+      "range": {
+        "startLine": 165,
+        "startChar": 51,
+        "endLine": 165,
+        "endChar": 55
+      },
+      "revId": "43a1447c629aea6af9ec9a36690968888e574e76",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
