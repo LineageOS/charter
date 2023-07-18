@@ -16,6 +16,24 @@
       "message": "Since we\u0027re documenting things that are surprising we need to document, should we speak to USB OTG mass storage?",
       "revId": "0586eac4647338de458bf2271458730d6d62e3e8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "321de663_6903422f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2023-07-18T06:34:32Z",
+      "side": 1,
+      "message": "I think it wouldn\u0027t hurt to also mention OTG.",
+      "parentUuid": "dd053a3f_809a20fc",
+      "revId": "0586eac4647338de458bf2271458730d6d62e3e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
