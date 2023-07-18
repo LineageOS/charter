@@ -34,6 +34,24 @@
       "parentUuid": "dd053a3f_809a20fc",
       "revId": "0586eac4647338de458bf2271458730d6d62e3e8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9e39b09a_2b243d37",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-07-18T16:47:56Z",
+      "side": 1,
+      "message": "There are a few devices with OTG oddities, as OTG implies a number of different devices supported - I would personally make that a SHOULD.",
+      "parentUuid": "321de663_6903422f",
+      "revId": "0586eac4647338de458bf2271458730d6d62e3e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
