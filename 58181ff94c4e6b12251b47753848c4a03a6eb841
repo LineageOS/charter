@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f797cb6f_62d0e7d0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2023-09-24T20:02:22Z",
+      "side": 1,
+      "message": "fine for me",
+      "revId": "58181ff94c4e6b12251b47753848c4a03a6eb841",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "57409fe2_30721811",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 384,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2023-09-24T20:02:22Z",
+      "side": 1,
+      "message": "maybe \"FDE only devices\"",
+      "revId": "58181ff94c4e6b12251b47753848c4a03a6eb841",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
