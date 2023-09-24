@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "879ed414_103f7435",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 364,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2023-09-24T21:07:13Z",
+      "side": 1,
+      "message": "`Maintainers wishing to ship LineageOS 18.1+ MUST ship LineageOS Recovery as the default solution for their device on the Wiki.`\n\nWiki doesn\u0027t allow uses_twrp for any shipping device anymore.",
+      "range": {
+        "startLine": 364,
+        "startChar": 2,
+        "endLine": 364,
+        "endChar": 140
+      },
+      "revId": "72fe42328a1e6ca1eb92a17f14566ff7e67ecfcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
