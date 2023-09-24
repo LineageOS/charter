@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f00c9ac4_5d3f15a3",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 6
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-09-24T20:01:44Z",
+      "side": 1,
+      "message": "We should probably not do this, I would say keep old statements and add \"Since LineageOS X.x, ...\"",
+      "range": {
+        "startLine": 10,
+        "startChar": 2,
+        "endLine": 10,
+        "endChar": 64
+      },
+      "revId": "0c2fd96d4a0806cfc78666d6c8a669bb8e28ae91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
