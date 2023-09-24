@@ -22,6 +22,30 @@
       },
       "revId": "0c2fd96d4a0806cfc78666d6c8a669bb8e28ae91",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3a0250a4_89abed87",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 6
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-09-24T20:24:46Z",
+      "side": 1,
+      "message": "go for it.",
+      "parentUuid": "f00c9ac4_5d3f15a3",
+      "range": {
+        "startLine": 10,
+        "startChar": 2,
+        "endLine": 10,
+        "endChar": 64
+      },
+      "revId": "0c2fd96d4a0806cfc78666d6c8a669bb8e28ae91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
