@@ -46,6 +46,30 @@
       },
       "revId": "0c2fd96d4a0806cfc78666d6c8a669bb8e28ae91",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "25268cfd_6449ccb9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 6
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2023-09-24T21:02:35Z",
+      "side": 1,
+      "message": "This should be enough to not retroactively change rules, also set 20.0 as a starting point for LineageOS recovery enforcement",
+      "parentUuid": "3a0250a4_89abed87",
+      "range": {
+        "startLine": 10,
+        "startChar": 2,
+        "endLine": 10,
+        "endChar": 64
+      },
+      "revId": "0c2fd96d4a0806cfc78666d6c8a669bb8e28ae91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
