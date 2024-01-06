@@ -209,7 +209,8 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 
 ## Kernel
 
-* All devices MUST NOT ship a prebuilt kernel.
+* All devices MUST NOT ship a prebuilt kernel that supplied from device specific trees.
+* All devices MAY ship a prebuilt GKI kernel from kernel/prebuilts directory in LineageOS source tree.
 * All devices MUST NOT implement software based touchscreen wake features such as double tap to wake, swipe to wake or gestures if there is no hardware-backed support for them in the touchscreen firmware.
 * All devices MUST NOT implement forced fast charge over USB methods that violate the USB specifications.
 * All devices MUST NOT implement any form of clock manipulation (underclocking, overclocking, etc.) for any processor (CPU, GPU).
