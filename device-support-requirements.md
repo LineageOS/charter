@@ -223,8 +223,10 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
   * performance
   * powersave
   * sched
+  * sched_pixel
   * schedutil
   * userspace
+  * walt
 
 * All devices MUST NOT ship I/O schedulers other than the ones specified in the following list:
   * bfq
