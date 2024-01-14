@@ -232,6 +232,8 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
   * bfq
   * cfq
   * deadline
+  * kyber
+  * mq-deadline
   * noop
   * row
 
