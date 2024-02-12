@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d9a6175a_812c9d91",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2024-02-12T22:05:23Z",
+      "side": 1,
+      "message": "I think this is reasonable. Virtual CR+1.",
+      "revId": "9f6eb7e98bf5555c67883a5fddb4c12c461fa577",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
