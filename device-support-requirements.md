@@ -214,7 +214,7 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 * All devices MUST NOT implement forced fast charge over USB methods that violate the USB specifications.
 * All devices MUST NOT implement any form of clock manipulation (underclocking, overclocking, etc.) for any processor (CPU, GPU).
 * All devices MUST NOT implement any form of hardware voltage manipulation (undervolting, custom voltage tables, etc.).
-* All devices MUST NOT implement any form of hardware register manipulation (sound control, etc.).
+* All devices MUST NOT implement any form of hardware register manipulation (sound control, etc.) that is not present on stock.
 * All devices MUST NOT implement any form of custom KSM driver (UKSM, etc.).
 * All devices MUST NOT ship governors other than the ones specified in the following list:
   * conservative
