@@ -33,6 +33,29 @@
       "message": "the way Google handled wace unlock on p4 always bothered me.",
       "revId": "761d5e23ef6a8a60b29d0f248fa9886188e8c5a5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "03da3aeb_4f9629b3",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 387,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2024-02-16T06:54:54Z",
+      "side": 1,
+      "message": "wrong date",
+      "range": {
+        "startLine": 387,
+        "startChar": 2,
+        "endLine": 387,
+        "endChar": 12
+      },
+      "revId": "761d5e23ef6a8a60b29d0f248fa9886188e8c5a5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
