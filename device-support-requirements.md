@@ -199,6 +199,8 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 
 ## Device tree structure
 
+* Device trees MUST use a unique device codename that is not already used by a device that is previously or currently supported by official builds.
+  * Device trees MAY use a device codename that is already used by historical device trees that exist in LineageOS organization but never received official builds.
 * Device trees MUST contain a Lineage-specific makefile with device declaration of lineage_[devicename].
 * Device trees MUST support a lineage.dependencies file for `breakfast` command & roomservice to be functional.
   * This file MUST NOT include any dependencies outside of the "LineageOS" organization.
