@@ -39,7 +39,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
   * [Verity](#verity)
   * [Updater](#updater)
   * [FRP](#frp)
-  * [SafetyNet](#safetynet)
+  * [Play Integrity](#play-integrity)
   * [Binder](#binder)
   * [Root (su)](#root-su)
   * [Non-PIE Blobs](#non-pie-blobs)
@@ -258,9 +258,9 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 
 * All devices with stock support of Factory Reset Protection (FRP) SHOULD support FRP when Google Applications are installed by the user.
 
-## SafetyNet
+## Play Integrity
 
-* All devices MUST NOT alter SafetyNet validation responses.
+* All devices MUST NOT alter Play Integrity validation responses.
 
 ## Binder
 * All devices MUST use the 64-bit Binder API.
