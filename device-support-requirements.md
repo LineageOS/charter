@@ -140,7 +140,10 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 ## Display
 
-* All devices with a built-in Display MUST support the Display at the same resolution as the stock OS.
+* All devices with a built-in display MUST support the display at all the advertised output resolutions as the stock OS.
+* All devices with a built-in display MUST maintain the same maximum refresh rate for each advertised output resolution as the stock OS.
+* All devices with a built-in display SHOULD maintain the same refresh rates set for each advertised output resolution as the stock OS.
+* All devices with a built-in display MUST NOT advertise higher output resolution and refresh rate combinations than the ones advertised in the stock OS.
 * All devices with a built-in Display SHOULD support the Display at the same density as the stock OS.
 * All devices that do not include a built-in Display MUST support Display output via the hardware’s supported outputs (eg. Android TV - HDMI).
 * All devices that support additional non-USB display interfaces SHOULD support those display output methods.
