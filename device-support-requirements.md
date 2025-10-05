@@ -220,6 +220,8 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 * All devices MUST NOT implement any form of custom KSM driver (UKSM, etc.).
 * All devices MUST NOT ship governors other than the ones specified in the following list:
   * conservative
+  * energy_aware
+  * energy_step
   * interactive
   * ondemand
   * performance
