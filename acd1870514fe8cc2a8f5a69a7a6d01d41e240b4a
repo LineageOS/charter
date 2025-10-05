@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7dd349e8_324ba181",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33569
+      },
+      "writtenOn": "2025-10-05T12:09:28Z",
+      "side": 1,
+      "message": "Maybe we should allow to any OEM implementation rather then specifying each different one?",
+      "revId": "acd1870514fe8cc2a8f5a69a7a6d01d41e240b4a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
