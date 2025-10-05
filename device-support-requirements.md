@@ -240,6 +240,7 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
   * mq-deadline
   * noop
   * row
+  * ssg
 
 * All devices MUST only ship hotplugging drivers provided by the OEM or SoC vendor.
 
