@@ -211,7 +211,8 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 
 ## Kernel
 
-* All devices MUST NOT ship a prebuilt kernel.
+* Non-GKI devices MUST NOT ship a prebuilt kernel.
+* GKI devices MAY use either a source-built kernel or a prebuilt GKI image from Google, but MUST build all feasible modules from source.
 * All devices MUST NOT implement software based touchscreen wake features such as double tap to wake, swipe to wake or gestures if there is no hardware-backed support for them in the touchscreen firmware.
 * All devices MUST NOT implement forced fast charge over USB methods that violate the USB specifications.
 * All devices MUST NOT implement any form of clock manipulation (underclocking, overclocking, etc.) for any processor (CPU, GPU).
@@ -388,7 +389,6 @@ All currently granted exceptions should be listed in the following table. To req
 | 2018/02/12 | hlte[can/tmo/usc/vzw] | NFC                         | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
 | 2019/10/21 | s3ve3g*            | NFC                            | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
 | 2023/04/11 | FDE only devices   | Encryption                     | As of Android 13, FDE is no longer supported. All devices that can MUST migrate to FBE, but Some devices have custom keymaster HAL implementations that only allow FDE to function. Devices only capable of using FDE that are promoted to LineageOS 20 or above are exempted from encryption requirements. These devices MUST display a notice on the LineageOS Wiki that details this exemption. |
-| 2024/02/07 | Google Pixel       | Prebuilt Kernel                | As of Pixel 6, Google is building the kernel with bazel, which is very time consuming to integrate in our inline builds and keep it working. Given that these new devices have 5 or 7 years of support, we do not have to compile the kernel from source, since they receive monthly security patches directly from Google. These devices MUST use source built kernel or our own LineageOS compiled prebuilt kernel once they have reached their EOL. |
 | 2024/02/16 | coral/flame        | Face Unlock                    | On stock, Face Unlock and Soli features were largely tied to SystemUIGoogle, with a functional Face Unlock hook pushed to AOSP. Unfortunately, Google stopped caring about Face Unlock and let it break on the Pixel 4 series, with no way to fix it without source we don't have. |
 
 ---
