@@ -16,6 +16,23 @@
       "message": "while I agree with the second one, the first one is difficult in practice and I don\u0027t think we should enforce it. I am aware of at least 4 shipping devices that would be in violation if this was merged, they just default to the highest they support because their HWC implementation is weird (see: aura)",
       "revId": "f3a70b3a6be58431b1a14f0f76be5d9fd53fe445",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ccfacbfa_1cfe968b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-10-26T23:15:47Z",
+      "side": 1,
+      "message": "I do think the second line alone is worth adding tho!",
+      "revId": "f3a70b3a6be58431b1a14f0f76be5d9fd53fe445",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
