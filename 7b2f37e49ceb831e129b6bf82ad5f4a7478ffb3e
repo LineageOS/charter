@@ -16,6 +16,29 @@
       "message": "Thoughts on this?",
       "revId": "7b2f37e49ceb831e129b6bf82ad5f4a7478ffb3e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9aa28e68_60d0ee8f",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-11-08T01:04:42Z",
+      "side": 1,
+      "message": "fwiw many new xiaomi devices with wqhd display support \"fhd\" modes on stock, but afaict it\u0027s somewhat fake or just system side, there are no dedicated timings in dt.",
+      "range": {
+        "startLine": 143,
+        "startChar": 2,
+        "endLine": 143,
+        "endChar": 120
+      },
+      "revId": "7b2f37e49ceb831e129b6bf82ad5f4a7478ffb3e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
