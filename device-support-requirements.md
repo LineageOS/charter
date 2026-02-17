@@ -120,8 +120,9 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * All devices with Bluetooth supported in their stock OS MUST support Bluetooth.
 * All devices with Bluetooth MUST report same MAC address as on stock OS.
 * All devices with Bluetooth SHOULD support Bluetooth tethering.
-* All devices with support for Qualcomm® aptX™, aptX™ HD, or any future variant of aptX™, in stock (non-beta releases) OS SHOULD support those variant of aptX™.
-* All devices without support for Qualcomm® aptX™, aptX™ HD, or any future variant of aptX™ in stock (non-beta releases) OS MUST NOT support those variants of aptX™.
+* All devices with support for Qualcomm® aptX™, aptX™ HD, aptX™ Adaptive, or any future variant of aptX™, in stock (non-beta releases) OS SHOULD support those variants of aptX™.
+* All devices without support for Qualcomm® aptX™, aptX™ HD, or aptX™ LL (the variant not based on aptX™ Adaptive), in stock (non-beta releases) OS MAY support those variants of aptX™.
+* All devices without support for Qualcomm® aptX™ Adaptive or any future variant of aptX™ in stock (non-beta releases) OS MUST NOT support those variants of aptX™.
 
 ## Camera
 
