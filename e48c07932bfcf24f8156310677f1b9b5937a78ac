@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a94a9088_3c90c2db",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-02-23T22:21:37Z",
+      "side": 1,
+      "message": "though reading this hurts my head - it tracks what we want to allow.",
+      "revId": "e48c07932bfcf24f8156310677f1b9b5937a78ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
