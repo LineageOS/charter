@@ -34,6 +34,24 @@
       "parentUuid": "270c891a_4ebb0a4e",
       "revId": "bf246b5ab8f9076a5d47f8e58fb8735bdfc6a52a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "86db7fc1_6406dc55",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34512
+      },
+      "writtenOn": "2026-04-05T23:39:21Z",
+      "side": 1,
+      "message": "pretty sure the whole of Samsung has it faulty, so would it be the sort of thing that can we leave down to a “quirk” or something we have to fix",
+      "parentUuid": "1c2a0afe_38065e74",
+      "revId": "bf246b5ab8f9076a5d47f8e58fb8735bdfc6a52a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
