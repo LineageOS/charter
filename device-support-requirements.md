@@ -88,6 +88,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 ## RIL
 
+* All devices with eSIM supported in their stock OS MUST support eSIM and include LPA app (GoogleEuicc).
 * All devices with RIL supported in their stock OS MUST support RIL for phone calls & data.
 * All devices with RIL supported in their stock OS MUST support emergency calling with a SIM inserted (112/911).
 * All devices with RIL supported in their stock OS SHOULD support emergency calling without a SIM inserted (112/911).
