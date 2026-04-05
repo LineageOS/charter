@@ -16,6 +16,24 @@
       "message": "Wiki has a ton of quirks for this no?",
       "revId": "bf246b5ab8f9076a5d47f8e58fb8735bdfc6a52a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1c2a0afe_38065e74",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-04-05T21:53:25Z",
+      "side": 1,
+      "message": "just old pixels + samsung exynos 9830",
+      "parentUuid": "270c891a_4ebb0a4e",
+      "revId": "bf246b5ab8f9076a5d47f8e58fb8735bdfc6a52a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
