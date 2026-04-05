@@ -93,6 +93,11 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * All devices with RIL supported in their stock OS SHOULD support emergency calling without a SIM inserted (112/911).
 * Data-only devices (defined as devices that have a RIL but do not support telephony stack due to hardware/firmware restrictions) are EXEMPTED from phone & emergency dialing requirements.
 
+## eSIM
+
+* All devices with eSIM supported in their stock OS MUST support eSIM.
+* All devices with eSIM supported in their stock OS MUST include LPA app (GoogleEuicc).
+
 ## Encryption
 
 * All devices that supported hardware-backed encryption on their stock OS MUST support hardware-backed encryption.
