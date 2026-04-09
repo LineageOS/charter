@@ -123,6 +123,24 @@
       "parentUuid": "c18da16a_3232380b",
       "revId": "bf246b5ab8f9076a5d47f8e58fb8735bdfc6a52a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fd0f7da9_f88ac8b2",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-04-09T08:44:49Z",
+      "side": 1,
+      "message": "it would however need to preinstall some kind of LPA, having user hunt for one on their own would be unacceptable.",
+      "parentUuid": "59f7a355_1ea26a50",
+      "revId": "bf246b5ab8f9076a5d47f8e58fb8735bdfc6a52a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
