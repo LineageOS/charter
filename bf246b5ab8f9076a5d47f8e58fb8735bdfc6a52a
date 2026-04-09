@@ -141,6 +141,24 @@
       "parentUuid": "59f7a355_1ea26a50",
       "revId": "bf246b5ab8f9076a5d47f8e58fb8735bdfc6a52a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "027ad8d2_bdf3cb24",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 24262
+      },
+      "writtenOn": "2026-04-09T08:52:59Z",
+      "side": 1,
+      "message": "```suggestion\n* All devices with eSIM supported in their stock OS MUST include LPA app (such as GoogleEuicc).\n\n```\nI imagine it would be a simple change to do right now, up to you though if you want to do it now or not. Resolving.",
+      "parentUuid": "fd0f7da9_f88ac8b2",
+      "revId": "bf246b5ab8f9076a5d47f8e58fb8735bdfc6a52a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
