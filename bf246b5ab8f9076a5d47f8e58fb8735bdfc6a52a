@@ -146,6 +146,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "dac59d71_85085fe1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-04-09T16:52:56Z",
+      "side": 1,
+      "message": "@mike they _can_ but then they\u0027d need a charter exemption if they don\u0027t fit the rules we put - mid version.\n\nHence my pitch on the \"shipped after\" date - otherwise I\u0027d probably make this \"as of 24.0\" or something but that\u0027s just my 2c",
+      "parentUuid": "6e5f568a_2a61162b",
+      "revId": "bf246b5ab8f9076a5d47f8e58fb8735bdfc6a52a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "c18da16a_3232380b",
         "filename": "device-support-requirements.md",
         "patchSetId": 3
