@@ -70,6 +70,24 @@
       "parentUuid": "86db7fc1_6406dc55",
       "revId": "bf246b5ab8f9076a5d47f8e58fb8735bdfc6a52a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "96017be7_164a9128",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-04-09T06:40:25Z",
+      "side": 1,
+      "message": "why date? does that imply we are shipping devices without documented esim quirk?",
+      "parentUuid": "e9c65f27_7fa7a345",
+      "revId": "bf246b5ab8f9076a5d47f8e58fb8735bdfc6a52a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
