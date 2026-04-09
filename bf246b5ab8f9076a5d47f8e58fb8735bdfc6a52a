@@ -128,6 +128,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "6e5f568a_2a61162b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-04-09T16:42:10Z",
+      "side": 1,
+      "message": "esim quirk exists since 2023, i think we are well past the reasonable timeframe to declare it broken on wiki...",
+      "parentUuid": "b5ab3f91_31724062",
+      "revId": "bf246b5ab8f9076a5d47f8e58fb8735bdfc6a52a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "c18da16a_3232380b",
         "filename": "device-support-requirements.md",
         "patchSetId": 3
