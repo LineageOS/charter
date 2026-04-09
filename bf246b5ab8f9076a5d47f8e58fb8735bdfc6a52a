@@ -105,6 +105,24 @@
       "message": "Must device that don\u0027t use Google\u0027s LPA in stock use it in Lineage?",
       "revId": "bf246b5ab8f9076a5d47f8e58fb8735bdfc6a52a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "59f7a355_1ea26a50",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-04-09T08:41:26Z",
+      "side": 1,
+      "message": "charter can be updated to account for that when such device shows up.",
+      "parentUuid": "c18da16a_3232380b",
+      "revId": "bf246b5ab8f9076a5d47f8e58fb8735bdfc6a52a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
