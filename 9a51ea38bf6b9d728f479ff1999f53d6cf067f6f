@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "30ccffaa_48429c43",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 219,
+      "author": {
+        "id": 27741
+      },
+      "writtenOn": "2026-04-16T23:14:59Z",
+      "side": 1,
+      "message": "this was the issue under discussion--this bullet should be removed as it stands. the added points below should replace this, perhaps with a subbullet that says no modification of frequency min/max beyond that (and it should say this specifically as underclocking should not be a restriction otherwise, or using a different power hal violates this).",
+      "revId": "9a51ea38bf6b9d728f479ff1999f53d6cf067f6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
