@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cdc6d392_7192face",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 394,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2026-04-16T21:12:34Z",
+      "side": 1,
+      "message": "Mmm, maybe the last sentence should say \u0027a custom bootloader which allows users to configure\u0027. Since this exception is mainly about the ini config, from my understanding. The other open charter change covers the performance toggle in the ui.",
+      "revId": "d1ad9ccfc2a49f24114a32590e92bea21d0a5908",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
