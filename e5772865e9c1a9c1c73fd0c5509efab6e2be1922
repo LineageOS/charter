@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0b9b5bd9_7244f708",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2026-04-16T21:57:27Z",
+      "side": 1,
+      "message": "Two \u0027a\u0027s\u0027 back to back now, but other than that looks good. Thanks for getting this done. Combined with the other open charter change, this resolves my long standing issues.",
+      "revId": "e5772865e9c1a9c1c73fd0c5509efab6e2be1922",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
