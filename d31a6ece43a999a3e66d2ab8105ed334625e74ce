@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "49b6353a_fbe7a631",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2026-04-16T21:03:02Z",
+      "side": 1,
+      "message": "I would prefer this to be device specific. People voting on this can look to see what nx is currently doing and approve/disapprove based on that. It is unknown what future devices might do, so it would be better to make each new device that needs this get approval separately.",
+      "revId": "d31a6ece43a999a3e66d2ab8105ed334625e74ce",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
