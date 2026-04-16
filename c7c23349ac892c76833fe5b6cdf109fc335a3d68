@@ -70,6 +70,24 @@
       "parentUuid": "38bc29cd_a4933d39",
       "revId": "c7c23349ac892c76833fe5b6cdf109fc335a3d68",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "db8a235f_2709117b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2026-04-16T22:00:03Z",
+      "side": 1,
+      "message": "That\u0027s the entire point of this exercise, though. The existing lines fail on ALL devices. Nothing reasonable can pass them. No clock manipulation means no governors. No voltage manipulation means no dynamic voltage scaling. Since that\u0027s obviously not the intent, they need changed to cover the actual intent.",
+      "parentUuid": "2f89fdad_5a313196",
+      "revId": "c7c23349ac892c76833fe5b6cdf109fc335a3d68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
