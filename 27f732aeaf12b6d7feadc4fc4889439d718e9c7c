@@ -34,6 +34,23 @@
       "parentUuid": "2b36599f_16f2d14f",
       "revId": "27f732aeaf12b6d7feadc4fc4889439d718e9c7c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b0cab577_8330bef3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-04-17T21:07:44Z",
+      "side": 1,
+      "message": "The writing doesn\u0027t enforce any \"order\" on the preferred bin to use, but I\u0027d hope readers won\u0027t jump the gun",
+      "revId": "27f732aeaf12b6d7feadc4fc4889439d718e9c7c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
