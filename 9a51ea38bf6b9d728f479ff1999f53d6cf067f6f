@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "39039fac_bb99ff5d",
+        "filename": "device-support-requirements.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 219,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-04-17T01:43:05Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "30ccffaa_48429c43",
+      "revId": "9a51ea38bf6b9d728f479ff1999f53d6cf067f6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a2a19c4d_942d7f28",
