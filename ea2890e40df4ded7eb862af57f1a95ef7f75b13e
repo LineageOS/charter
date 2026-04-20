@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "32897293_4175b1b1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-04-20T19:44:22Z",
+      "side": 1,
+      "message": "Do we want to add something about not copy pasting slo onto bug tickets?\n\nSeen like 4 this week.",
+      "revId": "ea2890e40df4ded7eb862af57f1a95ef7f75b13e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
