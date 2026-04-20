@@ -1,0 +1,107 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a28c3647_4d729a8a",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2026-04-20T14:54:05Z",
+      "side": 1,
+      "message": "If you\u0027re gonna fix other stuff, get rid of these bogus spaces too",
+      "range": {
+        "startLine": 8,
+        "startChar": 131,
+        "endLine": 8,
+        "endChar": 133
+      },
+      "revId": "de65276c2fc3b284335a92b86827813cf366bb95",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "93dc01d3_4ea473a7",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2026-04-20T14:54:05Z",
+      "side": 1,
+      "message": "ditto",
+      "range": {
+        "startLine": 9,
+        "startChar": 114,
+        "endLine": 9,
+        "endChar": 116
+      },
+      "revId": "de65276c2fc3b284335a92b86827813cf366bb95",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bfeeba08_16d2ad6d",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2026-04-20T14:54:05Z",
+      "side": 1,
+      "message": "ditto",
+      "range": {
+        "startLine": 10,
+        "startChar": 107,
+        "endLine": 10,
+        "endChar": 109
+      },
+      "revId": "de65276c2fc3b284335a92b86827813cf366bb95",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fba21d29_90bba3a0",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2026-04-20T14:54:05Z",
+      "side": 1,
+      "message": "100 chars?\n\n(single newline \u003d space)",
+      "revId": "de65276c2fc3b284335a92b86827813cf366bb95",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "df08c983_bbfbdafc",
+        "filename": "ai-coding-assistants.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2026-04-20T14:54:05Z",
+      "side": 1,
+      "message": "I don\u0027t know about this, this sounds like we\u0027ll chase people with a knife even if the commit introduces bugs, should be scoped to licensing issues only",
+      "revId": "de65276c2fc3b284335a92b86827813cf366bb95",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
