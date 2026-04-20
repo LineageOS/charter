@@ -177,6 +177,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e43dea8a_77dde831",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-04-20T17:08:24Z",
+      "side": 1,
+      "message": "I don\u0027t think we do that on other charter docs.",
+      "parentUuid": "9e892377_0154fa70",
+      "revId": "de65276c2fc3b284335a92b86827813cf366bb95",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "df08c983_bbfbdafc",
