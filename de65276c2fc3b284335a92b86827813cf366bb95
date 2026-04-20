@@ -210,6 +210,24 @@
       "message": "I don\u0027t know about this, this sounds like we\u0027ll chase people with a knife even if the commit introduces bugs, should be scoped to licensing issues only",
       "revId": "de65276c2fc3b284335a92b86827813cf366bb95",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ab60a553_6b05c961",
+        "filename": "ai-coding-assistants.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-04-20T17:09:00Z",
+      "side": 1,
+      "message": "Updated to include licensing snippet",
+      "parentUuid": "df08c983_bbfbdafc",
+      "revId": "de65276c2fc3b284335a92b86827813cf366bb95",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
