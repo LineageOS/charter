@@ -16,6 +16,24 @@
       "message": "Do we want to add something about not copy pasting slo onto bug tickets?\n\nSeen like 4 this week.",
       "revId": "ea2890e40df4ded7eb862af57f1a95ef7f75b13e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "36fc7fa5_3a9067f6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2026-04-21T00:10:57Z",
+      "side": 1,
+      "message": "Maybe as part of the issue tracker template maybe? It\u0027s highly unlikely they will read charter meant more for developers",
+      "parentUuid": "32897293_4175b1b1",
+      "revId": "ea2890e40df4ded7eb862af57f1a95ef7f75b13e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
