@@ -34,6 +34,24 @@
       "parentUuid": "2d38e7cf_780a4886",
       "revId": "207031ea8f98f8e9a6f7b675d0d0b278725bb342",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0bd75e0a_351b63fc",
+        "filename": "README.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2026-04-27T11:01:21Z",
+      "side": 0,
+      "message": "You solve that with 2 newlines, that equals to a single newline in the resulting doc\n\nElse a standard list can work too",
+      "parentUuid": "c30cd9f7_ca5737ed",
+      "revId": "207031ea8f98f8e9a6f7b675d0d0b278725bb342",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
