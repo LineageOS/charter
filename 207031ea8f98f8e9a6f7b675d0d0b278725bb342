@@ -52,6 +52,24 @@
       "parentUuid": "c30cd9f7_ca5737ed",
       "revId": "207031ea8f98f8e9a6f7b675d0d0b278725bb342",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "772b8998_edc65897",
+        "filename": "README.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-04-27T11:02:34Z",
+      "side": 0,
+      "message": "Well, as long as it works I\u0027m fine with current approach.\nNew line handling on rich text is always a pain",
+      "parentUuid": "0bd75e0a_351b63fc",
+      "revId": "207031ea8f98f8e9a6f7b675d0d0b278725bb342",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
