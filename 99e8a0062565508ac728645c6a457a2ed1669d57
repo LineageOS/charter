@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "122644c6_97653f6e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35591
+      },
+      "writtenOn": "2026-04-27T14:53:30Z",
+      "side": 1,
+      "message": "Hoping on a bit late, but should we link somewhere the linux kernel file we are inheriting some of these instructions from ? E.g https://docs.kernel.org/process/coding-assistants.html or https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "revId": "99e8a0062565508ac728645c6a457a2ed1669d57",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
