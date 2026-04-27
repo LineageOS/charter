@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2d38e7cf_780a4886",
+        "filename": "README.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2026-04-27T07:48:30Z",
+      "side": 0,
+      "message": "Removing whitespace breaks newlines in markdown, same below",
+      "revId": "207031ea8f98f8e9a6f7b675d0d0b278725bb342",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
