@@ -16,6 +16,24 @@
       "message": "I really didn\u0027t want to do this, but I think it\u0027s time we have this discussion to limit the AI comments, overuse of generated code, and get rid of the wall of text commit messages. Any input is welcome since I\u0027m not good with wording these sorts of things",
       "revId": "b7d90a457cbf225e7bec65ae98e462dffb5b3199",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7dde335a_cbde52d2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-09-10T04:23:39Z",
+      "side": 1,
+      "message": "Over-reliance is probably a better term than overuse for what I see when checking gerrit changes",
+      "parentUuid": "254ae08a_ca9f7c53",
+      "revId": "b7d90a457cbf225e7bec65ae98e462dffb5b3199",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
