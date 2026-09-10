@@ -34,6 +34,40 @@
       "parentUuid": "254ae08a_ca9f7c53",
       "revId": "b7d90a457cbf225e7bec65ae98e462dffb5b3199",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "49325cf3_59513c23",
+        "filename": "ai-coding-assistants.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-10T04:35:07Z",
+      "side": 1,
+      "message": "```suggestion\n- Commit messages MUST and concise and meaningful. Long winded explanation SHOULD only be used to annotate the non-obvious.\n```",
+      "revId": "b7d90a457cbf225e7bec65ae98e462dffb5b3199",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "30e67936_289a030c",
+        "filename": "ai-coding-assistants.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-10T04:35:07Z",
+      "side": 1,
+      "message": "```suggestion\n- All code submitted must be understood and explainable by the human submitter during the review process\n```",
+      "revId": "b7d90a457cbf225e7bec65ae98e462dffb5b3199",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
