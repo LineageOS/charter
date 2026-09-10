@@ -39,6 +39,30 @@
       },
       "revId": "d37562f454a90b41dd992d321a1b43ee91892eee",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f0c12841_8b1d48a0",
+        "filename": "ai-coding-assistants.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-09-10T05:24:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "003da79d_b12721df",
+      "range": {
+        "startLine": 37,
+        "startChar": 21,
+        "endLine": 37,
+        "endChar": 26
+      },
+      "revId": "d37562f454a90b41dd992d321a1b43ee91892eee",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
