@@ -53,6 +53,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "eac8f2a3_4cc09f5a",
+        "filename": "ai-coding-assistants.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-09-10T04:43:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "49325cf3_59513c23",
+      "revId": "b7d90a457cbf225e7bec65ae98e462dffb5b3199",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "30e67936_289a030c",
@@ -66,6 +84,24 @@
       "writtenOn": "2026-09-10T04:35:07Z",
       "side": 1,
       "message": "```suggestion\n- All code submitted must be understood and explainable by the human submitter during the review process\n```",
+      "revId": "b7d90a457cbf225e7bec65ae98e462dffb5b3199",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5d8c8864_ce376b94",
+        "filename": "ai-coding-assistants.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-09-10T04:43:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "30e67936_289a030c",
       "revId": "b7d90a457cbf225e7bec65ae98e462dffb5b3199",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
