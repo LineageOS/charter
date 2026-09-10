@@ -27,6 +27,15 @@ The human submitter is responsible for:
 - Addressing any feedback and requests for changes raised by reviewers, until the contribution is
   approved and merged
 
+## Annotation
+
+All generated code MUST comply with the following standards:
+
+- Inline comments MUST focus on non-obvious logic, complex algorithms,
+  or non-trivial side effects. MUST not contain self-evident explanations or narrative comments
+- Commit messages MUST be short and concise. Further explaination SHOULD only be used for non-obvious intent
+- All code submitted must be explainable by the human submitter during the review process
+
 ## Attribution
 
 When AI tools contribute to LineageOS development, proper attribution helps track the evolving role
