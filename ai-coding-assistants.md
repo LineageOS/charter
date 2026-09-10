@@ -34,16 +34,5 @@ of AI in the development process. Contributions MUST include an `Assisted-by` ta
 format:
 
 ```text
-Assisted-by: AGENT_NAME:MODEL_VERSION
-```
-
-Where:
-
-- `AGENT_NAME` is the name of the AI tool or framework
-- `MODEL_VERSION` is the specific model version used
-
-Example:
-
-```text
-Assisted-by: Claude-Code:claude-opus-4.7
+Assisted-by: LLM
 ```
