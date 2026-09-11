@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "75c60d4d_bb982599",
+        "filename": "ai-coding-assistants.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2026-09-11T08:10:04Z",
+      "side": 1,
+      "message": "\"Must and concise\" ?",
+      "revId": "c82ef7a2cd07240ad85bb03ace6e4909a0e626ae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
