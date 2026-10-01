@@ -215,6 +215,7 @@ __Hardware deviations are defined as exemptions granted for hardware requirement
 * Non-GKI devices MUST NOT ship a prebuilt kernel.
 * GKI devices MAY use either a source-built kernel or a prebuilt GKI image from Google, but MUST build all feasible modules from source.
 * All devices MUST NOT implement software based touchscreen wake features such as double tap to wake, swipe to wake or gestures if there is no hardware-backed support for them in the touchscreen firmware.
+  * All devices MAY implement double tap to wake using software if there is hardware-backed support for single tap in the touchscreen firmware.
 * All devices MUST NOT implement forced fast charge over USB methods that violate the USB specifications.
 * All devices MUST either implement CPU and GPU clocks/voltage:
   * Reflective of the stock Android OS binning
