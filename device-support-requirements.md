@@ -393,6 +393,7 @@ All currently granted exceptions should be listed in the following table. To req
 | 2019/10/21 | s3ve3g*            | NFC                            | Stock NFC HAL is undocumented and doesn't match any known interfaces. Stealing configs and firmware from devices with a proper setup fails due to a signature mismatch when the (required) firmware download is attempted. |
 | 2023/04/11 | FDE only devices   | Encryption                     | As of Android 13, FDE is no longer supported. All devices that can MUST migrate to FBE, but Some devices have custom keymaster HAL implementations that only allow FDE to function. Devices only capable of using FDE that are promoted to LineageOS 20 or above are exempted from encryption requirements. These devices MUST display a notice on the LineageOS Wiki that details this exemption. |
 | 2026/04/16 | nx*                | Clock manipulation             | This device lacks an Android-based stock OS, and has different clockings depending on dock-status. This device is permitted to ship a custom bootloader which allows users to configure kernel clocks. |
+| 2026/11/04 | mblu21             | Non-PIE Blobs                  | The stock, unmodified vendor image (as required by Vendor Images) starts /vendor/bin/uniber, the Unisoc IRQ balancer, at boot from /vendor/etc/init/init.md.rc. It is an ET_EXEC AArch64 binary with no source release, and replacing it would require modifying the prebuilt vendor image. This device is permitted to ship it until a PIE build is available. |
 
 ---
 
