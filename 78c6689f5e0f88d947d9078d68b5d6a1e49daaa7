@@ -16,6 +16,40 @@
       "message": "Looks better.",
       "revId": "78c6689f5e0f88d947d9078d68b5d6a1e49daaa7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "af3dc407_12bee301",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2026-11-04T10:35:48Z",
+      "side": 1,
+      "message": "Thanks, much better. One comment inline with discussion, asking for a split or perhaps even a dedicated section to cover proprietary bits.",
+      "revId": "78c6689f5e0f88d947d9078d68b5d6a1e49daaa7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0df98863_84086d8b",
+        "filename": "ai-coding-assistants.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2026-11-04T10:35:48Z",
+      "side": 1,
+      "message": "Given the importance of this, I\u0027d split it into two with a bit more text about what\u0027s ok or not ok to do with proprietary code (or blobs), and another specifically about incompatible licenses if still needed.",
+      "revId": "78c6689f5e0f88d947d9078d68b5d6a1e49daaa7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
