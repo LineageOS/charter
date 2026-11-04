@@ -68,6 +68,24 @@
       "parentUuid": "0df98863_84086d8b",
       "revId": "78c6689f5e0f88d947d9078d68b5d6a1e49daaa7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7453e9fd_18976495",
+        "filename": "ai-coding-assistants.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-11-04T15:08:35Z",
+      "side": 1,
+      "message": "Done?",
+      "parentUuid": "fa9f1ebf_877f99b7",
+      "revId": "78c6689f5e0f88d947d9078d68b5d6a1e49daaa7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
